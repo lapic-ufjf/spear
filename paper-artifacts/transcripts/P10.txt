@@ -1,0 +1,187 @@
+Pesquisador: Beleza? Então, P10, como eu já te expliquei anteriormente, durante toda a atividade, eu gostaria que você pensasse em voz alta. Ou seja, eu vou te pedir para verbalizar os seus pensamentos, o que estiver passando pela sua cabeça enquanto você está mexendo na ferramenta, o que você espera que aconteça quando você... não sei, apertar algum botão ou fizer alguma coisa. É... quando alguma coisa parecer confusa também, quando você encontrar alguma dificuldade. Enfim, você não precisa se preocupar em explicar para mim, mas eu te peço apenas que você fale naturally enquanto utiliza a ferramenta. E aí, caso você fique alguns segundos em silêncio, eu vou te lembrar de continuar verbalizando os seus pensamentos, OK?
+
+P10: Uhum.
+
+Pesquisador: É... você chegou a pensar em um experimento?
+
+P10: Sim. Você pode me explicar rapidinho?
+
+Pesquisador: Tá.
+
+P10: Eu pensei em um experimento que buscasse avaliar a eficiência e a qualidade de duas ferramentas de IA para renderização de imagens de arquitetura.
+
+Pesquisador: Entendi. Então é uma comparação aí, né?
+
+P10: Uhum, entre o ChatGPT e o Gemini.
+
+Pesquisador: OK. Então pode começar.
+
+P10: Tá bem. E eu devo me cadastrar?
+
+Pesquisador: Sim. Você ainda... eu imagino que você ainda não tenha conta, né?
+
+P10: Tá, mas eu devo continuar compartilhando? Não sei se...
+
+Pesquisador: Pode.
+
+P10: Tá.
+
+Pesquisador: Pode criar uma senha também que seja diferente da que você usa normalmente.
+
+P10: Sim, tá bom. Bom, até aqui tá tudo bem intuitivo e eu não... Ah, tá. Nesse caso, sim, eu sou pesquisadora... Não, pera aí que eu errei a senha. Tem que ter no mínimo seis dígitos. Uhum. Tá, agora eu consegui.
+
+Pesquisador: Uhum. Você apertou ali em "Cadastrar", né?
+
+P10: Isso.
+
+Pesquisador: OK.
+
+P10: Ah, OK. Ah, tá. Ainda não tem nenhum experimento criado, então eu vou em "Novo" para criar o meu experimento. Para criar o título, eu vou colocar... o título vai ser... hum... eficiência... Que difícil. Não, no programa eu coloco "Comparação de eficiência para renderização: ChatGPT e Gemini". E aí agora eu vou digitar a descrição do experimento. Hum... Bom, o objetivo do experimento é avaliar a eficiência das ferramentas de IA para produção de imagens renderizadas a partir de capturas de tela do software de modelagem. Hum... Para tanto, os... não sei se é para escrever tipo o objetivo, o que que vai acontecer...
+
+Pesquisador: Não, não tá claro para você alguma coisa? Se na descrição você deveria fazer tal coisa ou outra?
+
+P10: É tipo a descrição do experimento. Eu acho que eu comecei falando assim do objetivo, mas eu não tenho certeza se era isso que era para eu estar escrevendo, se esse era o momento para eu estar descrevendo o que que eu pensei pro...
+
+Pesquisador: Mas que seja tipo um resumo geral, né?
+
+P10: Para tanto, os participantes deverão... Hum...
+
+Pesquisador: Só lembrando, não precisa se preocupar tanto com o texto, tá?
+
+P10: Tá bom. ...renderizar uma imagem nas duas ferramentas. Então seria aquele tipo de abordagem que uma pessoa faz nos dois e avaliar os resultados e o tempo de produção das imagens. Tá, vou apertar aqui em "Próximo". Termo de consentimento. Tá, o título eu vou digitar "Termo de consentimento de...". Hum...
+
+Pesquisador: Pode ser, sei lá, só "Termo de consentimento" também.
+
+P10: Não, tá. Eu não sei como se faz um documento desse. Descrição detalhada: termo de consentimento que será apresentado aos participantes antes de iniciar o experimento. Hum... "O participante consente...". Eh... Eu não sei realmente assim como é um termo de consentimento, não é um documento... Vou colocar, sei lá, "termo escrito". Tá, OK. Então apertar em "Próximo".
+
+Pesquisador: Você foi em "Próximo" ali por quê?
+
+P10: Porque eu já terminei a etapa anterior.
+
+Pesquisador: OK.
+
+P10: Aí agora em "Questionários". "Nenhum questionário foi encontrado. Os questionários permitem coletar dados, entre outras coisas, para avaliar os participantes." Então, como eu quero fazer um questionário, eu vou apertar em "Criar questionário". Hum, tem tipos diferentes. No meu caso, eu acho que o pós... o tipo de questionário pós faz mais sentido: fazer o questionário depois da tarefa. Título do questionário pode ser, em seguida, "Eficiência...". E a descrição pode ser: "Este questionário busca avaliar a experiência do usuário após utilizar duas ferramentas de IA...". Ah, sim. Resposta única, vou ativar porque cada participante vai participar uma vez só do experimento, embora ele seja de duas etapas. Aí tá, então aqui agora já vai começar o questionário. "Adicionar questão". Primeira pergunta pode ser em relação ao tempo. Deixa eu ver quais tipos de questão eu posso colocar: múltipla escolha, caixa de seleção... Ah, caixa de seleção, questão aberta e resposta curta. OK, vou colocar uma de caixa de seleção. "Quanto tempo..." Esse foi o enunciado da questão, né? "Quanto tempo demorou...". E aí aqui eu posso clicar para adicionar as opções. Então eu vou adicionar algumas opções de tempo. Pronto. Hum... Acho que aqui não tem necessidade de muitas opções, porque geralmente é uma média de um minuto, mas foi bem fácil de fazer essas opções e é fácil de excluir também se eu errar. Aí eu vou deixar essa aqui como obrigatória. Hum, acho que não precisa de pontuação, não, porque acho que é mais para análise de resultado. Então eu adicionei questão para fazer a segunda pergunta. Tem algum mínimo que eu preciso colocar de perguntas?
+
+Pesquisador: Não, não tem.
+
+P10: Tá. Na segunda pergunta, colocando o enunciado, acho que vou fazer uma pergunta relacionada à fidelidade do modelo: "A imagem obtida é fiel à imagem fornecida?". Aí posso colocar aqui alguns exemplos para ajudar, né? Exemplo: materiais correspondentes, objetos presentes na imagem. E aí aqui eu acho que vai ser um... Ah, na verdade, eu acho que vou ter que voltar na pergunta anterior, porque eu fiz algo errado. Na verdade, a primeira deveria ser uma múltipla escolha, porque do modo que fiz a pergunta não faz sentido marcar mais de uma questão. Então, na verdade, é múltipla escolha, que vai ser a mesma coisa para essa daqui. Mas o problema foi eu mesma, não estava claro. Onde será que... Agora o que vou fazer é um teste, tá? Eu vou colocar a minha primeira opção como "Sim" e a segunda opção como "Não", mas eu penso em colocar algumas coisas intermediárias. Eu não sei se, se eu colocar depois, vou poder trocar de ordem. Então eu adicionei mais uma opção, que é "Sim, parcialmente", mas eu gostaria que ela ficasse no meio. Não sei se tem como eu arrastar... Desculpa, voltei. Tá, eu acho que não tem como eu arrastar, então, na verdade, eu vou apagar, excluir essas duas últimas e vou colocar aqui.
+
+Pesquisador: Uhum. Então você esperava que pudesse arrastar, né, para trocar as perguntas.
+
+P10: Sim. Então agora eu tenho três opções. Aliás, eu não vou nem colocar "Sim, parcialmente", vou colocar só "Parcialmente". Não: "Sim", "Parcialmente" e "Não". E também é uma pergunta obrigatória. Então eu movi aqui. Agora eu acho que vou colocar uma pergunta qualitativa, e aí sim eu posso colocar uma caixa de seleção. Uma pergunta tipo caixa de seleção... Não, se bem que ainda não, na verdade não, perdão, múltipla escolha ainda, que aí é para avaliar talvez uma coisa mais subjetiva, como qual a qualidade da imagem assim, se a pessoa gostou da qualidade da imagem. Hum... "A imagem tem qualidade boa e realista.". Eu acho que talvez fazer uma igual àquelas perguntas assim: "Você concorda ou discorda?". Então, sei lá, vou colocar essas opções de concordo. Primeira opção: "Concordo plenamente". Aconteceu... Aconteceu um efeito que eu não esperava. Eu, intuitivamente, apertei o Enter para passar para a próxima linha e acabou concluindo o questionário.
+
+Pesquisador: E não era isso que você esperava, né?
+
+P10: Não, não. Mas eu, pelo menos, estou vendo aqui que tem esse lápisinho que me indica que eu posso editar o questionário que eu criei. Então eu posso voltar aqui e continuar o que eu estava fazendo. Então voltei aqui, vou adicionar a opção. Eh, então apagar em "Concordo plenamente" aqui... "Concordo...". Eu esqueci como é que é geralmente a opção colocando no meio, que eu não lembro se é assim, mas já fez o teste. E acho que a última pergunta que eu quero adicionar é só para dar oportunidade do usuário de escrever como foi a experiência de usar. Hum, eu percebi agora que eu fiz uma coisa meio burra. É porque eu estou avaliando duas IAs, então, na verdade, eu tenho que repetir todas essas perguntas duas vezes, né? Tá, então deixa eu só colocar aqui. Então troquei aqui para "no ChatGPT".
+
+Pesquisador: Bem, dado isso, você esperava alguma coisa da ferramenta? Não sei.
+
+P10: Hum, acho que não. Talvez só, sabe aquela ferramenta que às vezes tem formulário de criar seções?
+
+Pesquisador: Uhum.
+
+P10: Que a ideia é para ter tipo uma seção toda do ChatGPT e depois uma seção toda do Gemini, que eu ainda não, pelo menos, não percebi se tem. Tá. Aí a minha última questão vai ser só: "Descreva a experiência no ChatGPT. Comente sobre problemas que podem ter acontecido". E essa vai ser uma questão aberta. Uma coisa aqui que me gerou um pouquinho de estranhamento é porque a caixa de texto tem esse tamanho fixo. Então, quando eu continuei escrevendo, o início do texto foi sumindo e não quebrou a linha. Então eu vou escrevendo e vou parando de ver o que escrevi no início. Isso é uma coisa que me deu um pouquinho de estranheza.
+
+Pesquisador: Perfeito.
+
+P10: Hum, eu não sei o que é texto enriquecido. Não sei se é em relação a tamanho...
+
+Pesquisador: Não tá claro para você, então, o que essa funcionalidade faz?
+
+P10: Não.
+
+Pesquisador: Uhum.
+
+P10: Eu vou deixar ligada. Aham. Agora uma coisa: como eu vou repetir as perguntas, seria muito bom ter uma ferramenta de duplicar a pergunta, mas eu acho que não tem essa ferramenta de duplicar, então eu vou fazer manualmente.
+
+Pesquisador: Mexendo na ferramenta, você não encontrou nenhum lugar sem esse tipo de opção, né?
+
+P10: É, não sei se eu que não achei ou se realmente não tem. Então agora eu vou repetir as mesmas perguntas com as mesmas opções, só que agora falando do Gemini ao invés do ChatGPT. Então essa é obrigatória. Já fiz a primeira pergunta, né? Obrigatória. Então agora adiciono outra questão e vou copiar o que escrevi na 2 e vou escrever agora em relação ao Gemini, vou trocar para o Gemini. A questão de múltipla escolha. "Sim", "Parcialmente" e "Não" são as minhas opções. E é obrigatória também, porque todas as pessoas vão ter feito as duas, né? 1, 2, 3. Agora vou copiar a terceira pergunta: múltipla escolha. E aí as opções... Ah, eu fiz de novo a mesma coisa! Eu apertei o Enter e aí fechou o formulário.
+
+Pesquisador: Sim.
+
+P10: Então eu voltei de novo no lápis e estou voltando a editar. Adicionar as opções: "Concordo plenamente", "Concordo"... Não, desculpa. Adicionei as quatro opções, tudo certo, obrigatória. E agora essa aqui é a última pergunta, que é a pergunta aberta que eu também vou copiar da anterior aqui. A questão aberta obrigatória. Eu estou marcando isso do... Ah, não, essa aqui não é obrigatória, mas estou marcando isso do texto enriquecido, embora eu não saiba muito bem o que é, tá? Com isso, eu consegui terminar as minhas perguntas e aí agora sim eu posso salvar. Então tá feito o questionário. Eu vou para a próxima etapa aqui no botão de "Próximo". Delineamento do estudo: "No design intrassujeitos, todos os participantes realizam todas as tarefas. Ao menos uma tarefa deve ser criada." É, tá, é isso mesmo, eu quero com intrassujeitos. Próximo. Tarefas: "As tarefas definem as atividades que os participantes deverão realizar durante o experimento. Entre sujeitos é criado..." Tá, pera aí, vou voltar. Tem o botão de voltar. Ah, tá. "No design intrassujeitos, todos os participantes realizam todas as tarefas." Então é isso mesmo. Voltei pro outro, "Próximo". Tá, é porque teve uma coisinha que me confundiu um pouco, que é porque, embora eu tenha clicado em intrassujeitos na etapa anterior, quando eu cheguei aqui na tarefa, ele me dá um texto falando sobre "entre sujeitos". Aí, como eu não sou da área da pesquisa, eu fiquei um pouco confusa se eu tinha acertado.
+
+Pesquisador: Uhum.
+
+P10: Então eu vou apertar em "Nova tarefa".
+
+Pesquisador: Bem, você tá me escutando?
+
+P10: Tô.
+
+Pesquisador: Nesse momento, na criação de tarefas, aí a gente quer mais que você imagine que você tá subindo o seu experimento. Uhum. Não precisa se preocupar muito com algumas coisas que você vai encontrar aí, tipo quando, por exemplo, você apertar ali em configuração de interface de interação, só vai aparecer chat, motor de busca... Mas aí pode... enfim, não precisa se limitar a isso, pode clicar em qualquer um. Então, especificamente no seu experimento, você tá usando o chat, né? E você falou que vai usar o GPT e o Gemini, né?
+
+P10: Uhum, isso mesmo, esses dois.
+
+Pesquisador: Tá, tá. Aí, mas assim, antes você tinha me dito que poderia também usar uma outra IA que não tá aí. Então assim, vai ser possível. Enfim, pode seguir.
+
+P10: Então é chat. Eh...
+
+Pesquisador: Então, você entende isso? Não sei, não sei se ficou claro para você, pode falar.
+
+P10: Motor de busca seria, por exemplo, Google.
+
+Pesquisador: Exatamente.
+
+P10: Tá, entendi. Então seria chat mesmo porque... Ah, tá, entendi, tá bom. Bom, título: vamos só colocar "Criação de uma imagem renderizada". Então, interface de interação seria chat. Tá, entendi. OpenAI seria o ChatGPT. Ah, tá, tô entendendo melhor. Essa seria a minha primeira tarefa, então, com o ChatGPT. O modelo pode ser o 4.0, não sei, não conheço muito de...
+
+Pesquisador: Pode colocar qualquer coisa na chave de API.
+
+P10: E não com... Ah, entendi. Hum... Tá, o exemplo me ajudou bastante a entender essa parte de instrução do sistema. Hum... Eu acho que deve se comportar em um tom profissional, como um arquiteto. Tá, apesar de que na maior parte das vezes ele vai retornar só a imagem, mas vincular questionários... Tá, deixa eu... Vou apertar para ver o que acontece. Ah, tá bom, então sim, eu acredito que devo vincular ao questionário pós que eu fiz. Sumário da tarefa... Não.
+
+Pesquisador: O que é que você achou disso aí?
+
+P10: Não entendi o uso da palavra sumário porque eu não sei... Eu tenho duas hipóteses. Porque sumário em português é quando você tem o título e a página que você vai encontrar a coisa que está procurando. Só que aqui não tem páginas, então imagino que não seja isso. Eu imagino que provavelmente foi uma questão aqui de falso cognato do inglês, que summary em inglês é resumo. Então tô supondo que seja tipo um resumo da tarefa, não sei, apesar de que tem descrição depois, né? Hum... Eu vou colocar como se fosse um mini resumo. Hum... Talvez seja também tipo o prompt do usuário, o que ele tem que fazer. "O usuário deve criar uma imagem renderizada...".
+
+Pesquisador: E rapidinho: você achou que isso ficou claro aí?
+
+P10: Não. "O usuário deve criar uma imagem renderizada no ChatGPT a partir do print disponibilizado...". É, então tá pronto, sintetizado. Vamos dizer aqui esse cenário. Descrição da tarefa: "O usuário deve fazer o upload da captura de tela no ChatGPT e...". Eu acho que vou perceber os meus erros à medida que eu faço as coisas. Tá, deixa eu continuar, daqui a pouquinho eu já falo sobre isso, só um instante.
+
+Pesquisador: Se você quiser comentar...
+
+P10: Tá, eu vou comentar, mas deixa eu só terminar esse raciocínio. "...aguardar o resultado da imagem." É porque eu acho que percebi o meu erro. Deixa eu... Hum... Tá, eu entendi. É que agora, entendendo um pouquinho melhor, percebi que eu deveria ter feito dois questionários e não colocado as duas IAs em um questionário só. Porque agora eu tenho que criar duas tarefas: uma pro GPT e uma pro Gemini. E as duas vão linkar só no formulário que eu fiz para as duas. Então eu vou voltar na parte de questionário. Sim, eu vou duplicar o questionário que eu... Deixa eu falar enquanto eu faço. Então eu apertei em voltar, voltar e voltar de novo. Ih, pera aí que pulou. Não sei se apertei um a mais ou se pulou. Tá, vim para questionários. Ah, mas pior que também acho que não dá para duplicar.
+
+Pesquisador: É o que você queria?
+
+P10: É.
+
+Pesquisador: Uhum. Você sentiu falta dessa função?
+
+P10: Foi. Vou fazer de novo.
+
+Pesquisador: Uhum. Eh, assim, eu entendo que o seu objetivo é agora fazer um outro questionário para a sua outra atividade. Assim, você não precisa... você pode criar outro questionário, né, mas você não precisa detalhar no texto nem nada. Pode, sei lá, só colocar... enfim, só fazer um outro para ficar pro...
+
+P10: Então, eu criei um pós-questionário de novo e agora eu vou... só com o título, eu vou diferenciar os dois. Então, "Eficiência Gemini em renderização". Hum, "Gemini". Hum, então não tá aparecendo para salvar, então eu acho que posso ter feito alguma coisa errada. Então você... entendi errado.
+
+Pesquisador: É porque você precisa adicionar uma questão.
+
+P10: Ah, entendi! Entendi. Faz sentido, que é o que eu teria feito naturalmente, mas é uma questão de otimização de tempo aqui. Uhum. Eu criei uma questão aqui fictícia só pra gente ver. Pode ser aberta, tá? Então eu salvei, e o anterior eu vou só trocar o título para eu poder diferenciar. Então eu usei de novo a ferramenta de edição e salvei. Pera aí que me deu um toque... E agora eu tô dando "Próximo" para voltar de onde eu tinha parado, que é aqui na parte da tarefa. E aí a segunda tarefa vai ser a mesma coisa, só que pro Gemini. Ah, não, mas pera aí, desculpa, vou fechar isso aqui porque eu vi que aqui tem a parte de copiar, de duplicar, quero dizer. Tá? Eh, então aqui nesse botãozinho dá para duplicar, e aí eu posso só trocar onde é ChatGPT para Gemini. Essas informações aqui continuam sendo chat e aqui é Google. E aí, onde tem a opção aqui de questionário, agora vou trocar pro Gemini e tirar o do ChatGPT. Tá, eu troquei onde estava escrito ChatGPT para Gemini e vou criar. Agora eu tô com as duas tarefas que eu preciso. Próximo. E conclusão. Interessante. "Pesquisa entre sujeitos". Tarefas: tá OK, certinho. Então agora apertei em "Criar". Sucesso aqui, certinho. Aí eu acredito que eu possa ativar o experimento e mandar para as pessoas, né? Hum, legal.
+
+Pesquisador: Você foi aí?
+
+P10: Oi?
+
+Pesquisador: Onde você foi aí agora?
+
+P10: Eh, "Ver dados". E aí, por isso aqui eu vou receber um feedback das respostas, né, análises. Voltei. Ó, então também posso voltar e editar e ver também. Cliquei aqui nos participantes. Tá legal. Ah, e aqui que eu também pego o link para poder mandar para as pessoas. Eu devo adicionar pessoas?
+
+Pesquisador: Você que sabe, fica à vontade. Caso você queira testar alguma coisa.
+
+P10: Tá, eu vou adicionar você então. Deixa eu pegar você aqui e vai salvar. É essa tela aqui que eu fiquei um pouquinho confusa, porque ela não tem o botão de voltar.
+
+Pesquisador: Uhum.
+
+P10: Então, para voltar pro início, tem um texto "Início" aqui, então vou apertar nele.
+
+Pesquisador: Mas você então, pelo que eu entendi, esperava um botão de voltar ali.
+
+P10: Isso.
+
+Pesquisador: Uhum. OK. É isso, né?
+
+P10: Uhum.
+
+Pesquisador: Diga. Eu vou parar de gravar aqui, então.
+
+P10: Tá bem.

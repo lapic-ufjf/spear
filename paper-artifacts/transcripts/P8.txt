@@ -1,0 +1,239 @@
+Pesquisador: Beleza, estamos gravando. Então, P8, eu gostaria que durante toda a atividade você pensasse em voz alta. Então eu pretendo e eu espero que você verbalize tudo aquilo que estiver passando pela sua cabeça, seja aquilo que você estiver procurando ou que você espera que aconteça quando fizer alguma coisa ou quando alguma coisa parecer confusa. Enfim, eh, você não precisa se preocupar em explicar para mim, mas apenas falar naturally enquanto utiliza a ferramenta. E aí, caso você fique alguns segundos em silêncio, eu vou te lembrar de continuar verbalizando seus pensamentos. Então, vou te pedir agora rapidinho para explicar o experimento que você pensou aí, tá?
+
+P8: Só me ajuda assim a alinhar aqui, né? Eu preciso pensar, por exemplo, em termos de quê? Deixa eu ver aqui o fluxo aqui embaixo. Eh, cadê? Atividade de preparação da sessão, não é isso? Item 7: "Qual questão de pesquisa? Quais questões serão comparadas?", não é isso?
+
+Pesquisador: Isso, exatamente. Desenho...
+
+P8: Tá. Eh, é, a minha ideia é com esse advento dessas tecnologias massivas que tendem a subjugar toda a questão cognitiva de aprendizagem, esses chatbots com IA generativa que completam conteúdo, que ensinam, etc., eh, é verificar o quanto disso tá contribuindo, né, para o efetivo aprendizado, né, mudança de sistemas cognitivos, de relações cognitivas do usuário como aprendiz, né? Então, a minha ideia era, por exemplo, fazer algum experimento de buscas de alguns conteúdos e que fosse triangulado com algumas questões, né, eh, ao longo do processo para ver se a pessoa consegue ir tomando caminhos, eh, ir mudando o caminho da conversa com a ferramenta, né, para encontrar como a gente faria antigamente com buscas normais de web, né? Eh, você vai navegando até o caminho que você queira encontrar a questão. Eh, na minha linha de raciocínio, a ideia seria assim: ah, a percepção de que a pessoa conseguiu atingir o objetivo que ela queria, né, e que a partir dali ela conseguisse formular a própria resposta dela, né? Então, comparar com uma resposta que ela formularia e com algumas respostas possíveis para ver se ela consegue entender que aquela resposta tem alguma falsa positiva ou não. A ideia seria... O desenho que eu faria seria usando essas ferramentas mais novas, né? Porque até a própria de busca eu já uso essas soluções... Seria aquela que você faz tudo com o mesmo sujeito, então não separaria em dois grupos... Não, tá?
+
+Pesquisador: Eh, seria quase...
+
+P8: Oi?
+
+Pesquisador: Não, não, pode continuar.
+
+P8: Seria o within-subject que vocês falam, né? Uhum. Eh, e seria um quase-experimento, porque eu teria que selecionar esse pessoal segundo uma estratificação demográfica do que que seria o sujeito de observação, tá?
+
+Pesquisador: OK. Eh...
+
+P8: Mais alguma coisa ou é isso?
+
+Pesquisador: Eu sempre faria um questionário...
+
+P8: Questionário de teste antes, né? Eu daria um conteúdo específico em que aquele grupo poderia atuar, né? Eh, e aí faria um questionário de teste prévio e depois um posterior, geralmente para mensurar o pré e pós, né, para verificar se houve alguma evolução, tá?
+
+Pesquisador: Uhum. OK. Eh, bem, então, dado isso, né, esse é o seu experimento, pode começar a mexer na ferramenta aí na plataforma.
+
+P8: Tá. Eu não tenho usuário, como é que eu faço?
+
+Pesquisador: Então pode ficar à vontade para criar um usuário. Ah, e P8, vou te pedir só para mudar a língua ali na URL, colocar uma interrogação LNG=PT-BR.
+
+P8: Isso. Botar ?LNG=PT-BR. Traço BR, sei lá.
+
+Pesquisador: Isso. BR minúsculo.
+
+P8: Ah, tá. LNG, language.
+
+Pesquisador: Perfeito. Assim.
+
+P8: Tá. Beleza? Então vamos lá.
+
+Pesquisador: Pode começar. Lembrando de verbalizar os seus pensamentos.
+
+P8: Eu preciso cadastrar e botar a senha e cadastrar direto? Só aperto cadastro, aí depois que vai criar a senha?
+
+Pesquisador: Você pode ir em "Cadastrar".
+
+P8: Tá. Ah, tá. "Pesquisador"... O que que é isso aqui?
+
+Pesquisador: Então, eh, não é intuitivo para você o que que significa?
+
+P8: Não. Para mim parece o seguinte: ah, tá, eu tô atuando como pesquisador, mas tá me sugerindo que seria o pesquisador... Seriam vocês que construíram a solução.
+
+Pesquisador: Entendi. Eh, o "Pesquisador" te habilita a criar experimentos.
+
+P8: Que é o objeto aqui, não é isso?
+
+Pesquisador: Exato.
+
+P8: Tá. Então valeria ter uma explicação aqui, tá?
+
+Pesquisador: Se você quiser dar um F11 aí só pra gente ver a tela inteira. Aí pode começar. Rapidinho, você apertou em "Novo" ali por quê?
+
+P8: Perdão. Voltar. Eu vou apertar o "Novo", começar o novo experimento. Vou criar o novo, tá? Ah, desculpa, perdão. Criando rascunho. Então, botar o título: "Avaliação de aprendizagem na interação com chatbot de LLM". Objetivo da descrição aqui é: "Investigar que elementos ou comportamentos da interação e da solução chatbot LLM influenciam e/ou impactam o aprendizado cognitivo do usuário", que eu chamo como "usuário aprendiz". Estranho que ele tá marcando... Parece que ele tá em... Eu não sei se é meu browser, né?
+
+Pesquisador: É, aí nesse... Esse é o browser, acho.
+
+P8: É que a página não tá... Cliquei em próximo, tá?
+
+Pesquisador: Uhum. Você clicou em próximo e você tá esperando...
+
+P8: Agora, termo de consentimento, tipo de consentimento. É, o termo é autoconsentido, conforme prerrogativas LGPD e GDPR para dados sensíveis do uso do participante no experimento e código de ética de pesquisa envolvendo participantes humanos, né? Autodeclaração... Desculpa aqui, só um chatinho, vou corrigir aqui que tá errado. Trata-se de autodeclaração de livre e esclarecido consentimento para participar voluntariamente da pesquisa. Certo, digitei consentimento errado, digitei. Então, preenchi o termo de consentimento autoconsentido.
+
+Pesquisador: E aí você foi em próximo ali por quê?
+
+P8: Só que escrevi errado, tá? Perdão. Aí voltei para consertar o título. Próximo.
+
+Pesquisador: OK.
+
+P8: Criar questionário. E agora tá dizendo que não tem nenhum questionário ainda criado. Vou criar um questionário aqui, tá? Eu tenho dois tipos de questionário: um pré e pós. OK. Aí agora esse primeiro questionário é "Avaliação de conhecimento prévio", né?
+
+Pesquisador: Aham. É o título do seu questionário.
+
+P8: Isso. A descrição dele: "Descrever brevemente elementos ou comportamentos previamente do participante que possam influir nos resultados comparativamente ou demograficamente". Usando aqui a autocorreção, tá? Eh... Tá, aí é o questionário. Aí ele diz: tem o botão de "Resposta Única". Eu tô na dúvida: eh, o que que é a "Resposta Única"?
+
+Pesquisador: Não tá... Você não tá achando claro o que que é?
+
+P8: Não, porque para mim a resposta única seria para a questão: "Essa eu vou colocar a questão resposta", não para o questionário.
+
+Pesquisador: Sim. Eh, isso não... No caso aí, a resposta única quando habilitada, ela não permite que, depois de responder os questionários, eles voltem e editem as respostas. Eles só podem responder uma vez.
+
+P8: Tá, entendi. Ele não permite a edição da resposta, né? Então seria uma outra terminologia aqui, não "resposta única". Resposta única é condição da questão, de poder ser múltipla a resposta ou não. OK. Tá. Vou marcar aqui. Eu não gostaria que editasse porque, como eu falei, como é questão de aprendizagem, a qualquer momento do tempo, se ele voltar de novo, ele já teve um outro curso de aprendizagem, tá? Então vamos... Não tem o botão de salvar parcialmente, então tô achando que tá sendo salvo e vou começar a adicionar as questões. Eh, "Qual seu gênero?". Então, a gente geralmente bota com as questões de caixa de seleção que a gente coloca para delimitar o gênero, por exemplo: masculino, feminino, preferiu não informar... A caixa obrigatória. Então, tô me supondo aqui que o "Obrigatório" diz que eu vou poder... sou obrigado a informar. A "Pontuação" me parece que tem a ver com a questão de você não precisar... não computar no final. Então, como é uma questão demográfica, eu não preciso pontuar em busca de comparação. Eh, eu não tenho uma coisa de reduzir a questão, então vai ficar um rollout infinito aqui aparentemente na tela.
+
+"Qual sua faixa etária?". Mais uma vez, uma caixa de seleção. Então vou colocar aqui, por exemplo: "Até 21 anos"... Tô botando agora a segunda questão de enunciado também demográfica ("Qual sua faixa etária?"), que é o termo que a gente faz, né? "Entre 21 e 35 anos", por exemplo; "Acima de 35 anos". Essas cortes de faixa etária porque eu tô pensando em trabalhar com o pessoal de universidade, né, graduação. Então me parece mais interessante essa faixa. Como eu comentei antes, eu consigo aparentemente mover pelos quadrados as questões posicionadas na hora que eu queira, mas infelizmente eu não tenho uma forma de reduzir as questões que ficam me ocupando a tela, então vou seguir à frente. Eh... Vamos fazer agora para simplificar aqui... A minha dúvida é o seguinte, Pesquisador: eu preciso fazer uma coisa mais completa ou...
+
+Pesquisador: Não, não, cara, não precisa. O nosso objetivo é mais testar a utilidade da ferramenta aí. Mas assim, você não precisa se preocupar com texto ou com coisa assim do tipo, não precisa ser muito complexo.
+
+P8: Tá. Então, só reforçando aqui... Uma coisa que eu não percebi... Ah sim, agora percebi, perdão. Tá. Eh, eu ainda tô botando o enunciado, mas me apareceu aqui embaixo "Adicione ao menos uma opção", blablablá. Mas é sensível ao tipo do enunciado de questão, né? Quando eu botei resposta curta, ele apareceu uma outra opção de "Texto Enriquecido", "Questão Aberta", enfim. Eh, confesso que eu não entendi o que que é texto enriquecido, mas vamos lá mais à frente, né?
+
+Pesquisador: Uhum. Não ficou claro aí nesse momento, né?
+
+P8: O que é texto enriquecido? Porque assim, como eu tô usando soluções que têm IA e meu experimento seria com soluções de IA e tal, né, isso aqui me arremete muito com a temática do assunto que eu tô abordando. "Eu posso vai usar o chat, uma inteligência artificial aqui qualquer, seja qual for a técnica que vai usar para enriquecer o texto ou não. É a forma que o pessoal construiu o texto", entendeu? Então ficou meio estranho isso, mas enfim.
+
+Pesquisador: Sim.
+
+P8: Tá. Eh, novamente a minha reclamação é que eu não tenho uma forma de poder minimizar as questões que eu já tô preenchendo, entendeu?
+
+Pesquisador: Uhum.
+
+P8: Uma outra coisa que também me parece aqui é que, como comentei, normalmente a gente tem alguns grupos de questões, né? Então, uma coisa que eu sinto falta aqui logo de cara (tô olhando para cá e para lá) é: eu não consigo agrupar as questões. Então, por exemplo, imagina que eu quero fazer sobre determinados aspectos lá na minha pesquisa... Eu tô preocupado com os elementos que possam impactar e com o comportamento, OK? Então, ah, eu quero ter um agrupamento sobre questões de demografia, né, de dizer meu público participante como é que ele é (sexo, gênero, faixa etária, nível de formação, etc. e tal). Eu tenho uma outra sobre conhecimento específico do que eu quero fazer e de algumas outras características. Então essa forma de poder agrupar eu não tô vendo aqui, entendeu? Para mim seria muito importante, como usam até questionários do Google, por exemplo, do Windows e tal.
+
+A questão: "Você tem por hábito utilizar..." Aí vou usar o enunciado mais direto pro objetivo da pesquisa, né, mas já instanciando uma solução possível: "ChatGPT, Gemini, Claude ou ferramentas de IA generativa para aprendizagem?". Aí uma coisa: eu apertei o Alt+Enter e aí deu uma sumida aqui.
+
+Pesquisador: Oi.
+
+P8: Oi, tô aqui.
+
+P8: O meu questionário deu uma sumidinha básica aqui.
+
+Pesquisador: O seu questionário?
+
+P8: É.
+
+Pesquisador: Ah, sim. Porque você apertou...
+
+P8: Eu fui dar aquele o famoso Alt+Enter que dá na ferramenta ChatGPT, etc., e ele fechou, né? Porque tá vendo? Aí eu não consigo ver o texto todo, né? Então isso para mim é um problema. Eu não tenho essa facilidade de estar digitando. Como por exemplo... Eu posso salvar aqui, será? Ou tem que...
+
+Pesquisador: Pode.
+
+P8: Vou salvar, tá? Por exemplo, quando eu vou aqui, tá vendo essa área de multitexto? Eu consigo digitar e ver, né?
+
+Pesquisador: Uhum.
+
+P8: Quando eu tô no questionário, eu não tenho isso da pergunta. A pergunta é uma linha. Então, se eu quero descer a linha, eu dou o Shift+Enter, o Alt+Enter, tá vendo? Ele fecha.
+
+Pesquisador: Uhum.
+
+P8: Tá, isso para mim é um problema muito sério. Aí vou voltar. "Sim, detalhe sua experiência prática". A ideia aqui é fazer uma entrevista intensiva. Então eu, a partir do enunciado, peço para ele discorrer sobre essa experiência dele, né? Então a questão aberta e não resposta curta. Para mim é obrigatório. Eu tô supondo que terá um trecho enriquecido naquela dinâmica que eu falei que eu não sei exatamente o que que é, né? Sim.
+
+Aí uma segunda pergunta, né: "Que elementos ou indicações tais ferramentas apresentam para você durante as interações que servem de guia ou subsídio para considerar as respostas válidas ou aceitáveis?". É uma questão que é assim: qual a ideia que a gente tá buscando? Aquilo que eu falei cognitivo, né, racional da pessoa, né? "Existem casos de considerar parcialmente?". Aí aqui eu estaria fazendo uma nova... uma pergunta embutida, né? Mas eu tô preferindo, por exemplo, não fazer isso, deixar aí como questão aberta, marcar obrigatório o texto enriquecido e aí, na verdade, fazer uma triangulação com uma nova questão, tá?
+
+Tá, e aqui, qual seria a questão aqui? "Em que casos você consideraria uma resposta incompleta ou inadequada?". Aí eu quero uma resposta curta, né? Como eu falei, uma questão de coleta, não precisa ser texto enriquecido. E aí eu salvo.
+
+Então agora vou dar uma olhada como é que ficou, tá? Então eu tenho uma questão de gênero, que é demográfico; uma questão de faixa etária, demográfica; e três questões mais técnicas. O que que eu geralmente eu faço? Como eu vou usar essas questões para depois balizarem, a minha tendência é eu pegar o próprio texto aqui das questões e usar ele como refinamento posterior para fazer o texto do pós-teste, né? Que eu faço uma inversão, porque assim, eu não aplico o mesmo questionário, né? Deixa eu ver onde que eu tô...
+
+Tá, então para simplificar minha vida aqui... Tá, agora o que que eu faria? Eu passaria para... Deixa eu ver como é que eu saio aqui. Não tá muito claro. Salvei, tá? Vou criar um outro questionário agora, o pós. Por exemplo, ó, eu senti a falta de poder arrastar essa janela modal, tá vendo? Eu não consigo achar ela porque eu queria, por exemplo, aproveitar o texto do anterior e só fazer um ajuste, ficar uma coisa mais normatizada, entendeu? Então eu copio aqui do jeito que eu tô copiando, selecionei o texto do questionário que eu fiz, vou criar o questionário de pós.
+
+"Avaliação da experiência de aprendizagem posterior", né? "Observar elementos ou..." e aí novamente os comportamentos que eu quero "...adotados pelo participante que impactaram na interação e no fluxo de aprendizagem", tá? Essa que é a ideia. A mesma tônica é que seja uma resposta única. Então assim, no pós, o que que eu vou observar? Essa experiência de aprendizagem posterior e os elementos também, o comportamento que ele adotou ao longo da experiência para verificar, né? Aí aqui, para simplificar um pouquinho... Imagina que eu fiz a execução do prompt, ele executou e fez sua alteração, né? "Como foi a experiência atual durante a execução das atividades propostas em relação ao uso habitual declarado para aprendizagem?". A questão aberta, obrigatório, texto enriquecido. Eu imagino que é um texto que vai elaborar mais.
+
+Uma outra questão: "Que elementos ou indicações na interação e fluxo atual com a ferramenta exercitou que serviram de base para a conclusão a que chegou?", seria a ideia. Tô admitindo tudo a texto enriquecido. Como eu falei, o texto enriquecido não tá muito claro o que que é, então imagino que é um texto mais elaborado.
+
+"A quantidade de ciclos de microinterações ou o tamanho das respostas é um fator crítico?". Aí eu já tô buscando alguns elementos para característica muito específica. E aí a resposta tem que ser múltipla escolha: "Concordo totalmente", "Concordo parcialmente", por exemplo... Tenderia a fazer alguma coisa mais Likert, né? Aí tô colocando aqui aquelas que são as cinco opções, né: "Indiferente", por exemplo, "Discordo parcialmente"... Só sinto a dificuldade não de digitar, mas... "Discordo totalmente". Uma coisa interessante, porque a pontuação... Uma coisa que eu sinto falta aqui, mas aí é questão de ter métricas para isso, né? A pontuação que ele me permite é só uma pontuação mais categórica, né? Então eu tenho que ter tipo múltipla escolha ou caixa de seleção. Ele não consegue com questões abertas fazer algum tipo de score de pontuação, né? Tipo terminologias e tal. Tem algumas métricas que eu não conseguiria botar aqui, então teria que sair depois com resultante para planilha do questionário e processar isso.
+
+Botar mais uma questão aqui para não ficar muito. "Que fatores podem influenciar na qualidade da resposta?". Aí eu vou fazer agora aqui uma múltipla escolha: "Tamanho da resposta", "Coerência da resposta", "Fluidez do texto da resposta", "Quantidade de indicadores ou evidências apresentadas"... É que fatores, quer dizer, eu tô fazendo uma questão 4 que é assim: que fatores podem influenciar a qualidade da resposta (que seria minha pesquisa, né)? É múltipla escolha, aí tô citando alguns itens possíveis que eu teria feito na literatura para embasar minha pesquisa, né: "Quantidade de indicadores ou evidências apresentadas"... E aí uma última opção: "Forma de argumentação ou apresentação da solução", né, digamos assim. Então esses são os casos. Eu botei como múltipla escolha, isso também pontua e é obrigatório, por exemplo, tá? Salvei.
+
+Então, até em tese, agora eu já tenho um questionário de avaliação de conhecimento prévio, que também juntamente tem a parte demográfica. O que me deixa um pouco intrigado é que aparentemente eu posso também criar um outro questionário pré e pós, né? É isso, né?
+
+Pesquisador: Sim, exatamente.
+
+P8: Tá. Então eu poderia ter feito aquela questão dos grupos, eu poderia ter feito vários questionários à parte. Mas aí eu realmente não sei como é que a ferramenta me daria isso para apresentar, por exemplo, como formulário pro usuário, né? Então tem essas questões de delinear como é que faz esse desenho.
+
+Enfim, vamos passar pro delineamento do estudo, tá? Tá no design entre sujeitos. Aqui já tem uma explicação do que é cada um, né?
+
+Pesquisador: Uhum.
+
+P8: Tá. E como eu comentei antes, a ideia é ser entre sujeitos, que a pessoa vai participar de todas as tarefas. As tarefas vão ter níveis de complexidades cognitivas aderentes ao público-alvo, né? Então tem alguma homogeneização de conhecimento do público-alvo frente ao desafio da proposta do experimento. O estudo é entre sujeitos...
+
+Pesquisador: Rapidinho...
+
+P8: Aí agora cancelar aqui... Ele me parece para eu criar as tarefas, né? E essas tarefas são realizadas durante o experimento.
+
+Pesquisador: Perfeito. A tarefa tá aqui, né?
+
+P8: Então, a ideia, por exemplo... Como eu falei, graduação, pessoal de graduação, engenharia, né? A tarefa é: "Técnicas e tipos de mecanismos para redução de camadas de silício para semicondutores". Uma coisa muito específica. Eh, aí, como eu falei, a minha ideia é um chat de busca. Eu não tenho API Key aqui, então...
+
+Pesquisador: Pode colocar qualquer coisa.
+
+P8: Tá, tem as velhas aqui, né? Uhum. Aí a instrução... Como a estrutura da interface é chat, o chat tem aqui quem é o provedor, aí diz qual o modelo de LLM que posso usar. Os modelos que estão aqui são defasados, teria que atualizar. Aí eu coloco a minha API Key aqui para ele fazer acesso, OK. Eh, e aí ele pede as instruções de sistema que eu vou passar, que são as questões que eu passo antes pro chat para ele poder se reconfigurar, né? Então: "Você é um engenheiro pesquisador sênior sobre montagem de bolachas de microcircuitos de silício para a indústria. Deve sempre responder de forma sucinta, objetiva e nunca respondendo na totalidade o que foi perguntado. Deve levantar questionamentos e possibilidades de ampliar o conhecimento acerca do assunto", por exemplo.
+
+Aí "Vincular questionários". É que não faz... não me faz sentido eu ter esse "Vincular questionário", né? Uma vez que, como os questionários são pré e pós, não tem sentido vincular questionário a uma coisa que é pré ou pós, né? Que isso aqui tá no meio, né?
+
+Pesquisador: Uhum. Sumário da tarefa. Fala, P8.
+
+P8: Não, não. Eu só concordando com você.
+
+P8: Tá. Eh, então não me faz muito sentido aqui não, tá? Eh, porque se eu... É, não tem sentido nenhum. Faria sentido para mim se eu pudesse fazer o seguinte: ah, eu tenho uma tarefa que eu vou fazer, mas a tarefa tá muito associada com alguns enunciados ou questões de um determinado questionário. Aí pode ser. Por exemplo, eu tenho um perfil lá que eu botei que tem que ser matemático, então se for um matemático a responder, eu sei que vai mudar a graduação. Mas vincular questionário direto não faz sentido. Mas as questões poderiam ser, tá?
+
+Tarefa: "Como são elaboradas as camadas de bolacha para reduzir em nanosegumentos os microcircuitos? Deve apresentar os tipos de camadas, as técnicas atuais e históricas e a evolução." Então essa é a descrição da tarefa, eu tô dando algumas opções de como deve ser. Só que eu voltei a cair numa dúvida de novo, porque quando a gente tá trabalhando com chat de geração de conteúdo, se você dá muitos tokens ou muitos textos, né, faz com que ele envie, né, crie um viés em cima daquelas terminologias que foram usadas no texto, entendeu? Então eu não me sinto muito confortável em passar alguma coisa que tenha uma descrição muito longa, tá?
+
+Pesquisador: Sim, sim.
+
+P8: Eh, eu vou até abreviar bastante aqui porque eu geralmente não faria isso. Só se a descrição da tarefa fosse alguma coisa para o pesquisador, entendeu?
+
+Pesquisador: OK.
+
+P8: Do tipo: eu boto lá o... para fazer essa interação, que é o sumário ali, mas na descrição eu boto o que que eu espero encontrar, né? Exemplo clássico que a gente tem é o da redação. Então, na redação do Enem, por exemplo, vai ter um texto lá, alguma coisa vai escrever, mas eu vou te pontuar, vou verificar na redação alguns elementos, algumas dinâmicas. Esses elementos é que eu tenho comigo, entendeu?
+
+Pesquisador: Uhum.
+
+P8: Isso não pode estar nem para o aluno ou usuário aprendiz, nem para a ferramenta, principalmente. Senão ela vai se viciar naquilo ali, né? E aí a interação vai ser direta, né? Como eu falei, a ideia que eu tenho nesse estudo, por exemplo, é essa ideia para ver como é que vai ser essa interação do aluno, tá? Então só fechar aqui.
+
+Pesquisador: Perfeito.
+
+P8: "Que materiais e fluxo de energia são utilizados", tá. Então botei uma coisa bem sucinta, mas enfim. Só pra gente criar aqui uma tarefa. Essa é uma tarefa, né? E aí uma coisa que eu gosto de fazer são o que a gente chama de Zona de Desenvolvimento Proximal do Vygotsky, né? Então a gente tende a criar tarefas que possam ser mais factíveis para um tipo de pessoa (que as pessoas estudam isso a primazia e tudo mais) e para outras não, né?
+
+"Como são conectados e modelados fluxos de energia e fluidos em um..." A minha ideia aqui é a questão do ciborgue, né? " ...em um humano com partes cibernéticas", para simplificar, né? Então a ideia aqui é uma outra coisa também nessa parte da engenharia, mas já é um fluxo diferente, né? Eh, eu ainda usaria... Ah, uma outra coisa importante que eu faria, tá? Eh, às vezes... Deixa eu ver o que vocês fizeram aqui. Só tem o motor de busca, né? No chat é muito comum às vezes a gente precisar fazer uma análise comparativa de mais de uma ferramenta, entendeu? Então eu olhando para cá, me parece que eu seria obrigado a repetir a mesma tarefa. Eu não sei nem se isso é funcional aqui para um outro provedor. É isso?
+
+Pesquisador: Eh, sim. Só que, cara, e eu não falei nada com você porque assim, eu vi que o seu experimento se encaixava bem dentro disso que a gente já tem. Mas nessa parte de criação de tarefas, eu vou te pedir mais para imaginar que você tá subindo seu experimento do que de fato só ficando debaixo aí do Chat ou do Google, porque isso aí a gente vai mudar.
+
+P8: Ah, tá. É, não, mas assim, o ponto é que eu, assim, olhando para se eu fosse usar uma ferramenta desse tipo, o que me incomoda é que algumas coisas são muito monotônicas, né, ou muito lineares, entendeu? Então assim, se eu quiser configurar, fazer um comparativo de ferramentas, sei lá, né, eu não consigo, tá? Eh, e aí como não tem orientações de modo geral, a forma de bolo pode mudar cada um, entendeu? Só esse ponto, né, que é uma das coisas que você falou lá no início, é a avaliação da ferramenta, né?
+
+"Você é um bioengenheiro especialista em robótica. Que elementos eletromecânicos e conexões biossintéticas são adequados para vasos, músculos e tecidos?". E como eu comentei, eu gosto muito de usar essa complementação, né: "Descreva tipos e formas de aplicação", só pra gente não perder muito tempo aqui, não consumir muito o seu tempo. Ah, aí eu tenderia a usar uma outra API e seria isso aqui. Tá bem, duas tarefinhas. Aí vou agora pro próximo, tá? Eu faria várias tarefas. Normalmente a gente faz de três a cinco tarefas, tá?
+
+Aí "Criar". Posso criar agora? Eu fiz as tarefas, né? Já vi Metadados, Termos de Consentimento, Questionário, Delineamento do Estudo, Tarefas... Agora Revisão e Conclusão, OK? E vou criar agora. Imagino que nesse momento eu vou criar meu experimento, então vou criar um ambiente, alguma coisa, uma sandbox que vai ter os questionários e o experimento. Eh, teve uma mensagem created blablablá em inglês, né, depois de um sucesso. OK.
+
+Tem experimento criado. Aí eu caí numa outra telinha que tem o experimento criado, tá? Aí eu tô tentando me achar aqui nas barrinhas de funções, né? Ver dados, editar, os ícones de participantes... Eu ativei o experimento no botão de clicar em "Ativar". Aí agora eu tô tentando achar é o que que eu faço, né? Tá. Então, cliquei em dados, não tem nada. Aí eu tô vendo agora os dados, tá me mostrando como é que seriam as respostas, né? Formulário de resultados. Aí voltei. Aí vou editar meu experimento. Ele já abre a parte de edição naquele formato clássico tabular, menus laterais, etc. OK. Só que aqui eu fico perdido, eu não tenho um "Voltar", né? E aí eu tenho que clicar no "Início" e cair lá nos meus experimentos, né? Não tem um botãozinho "Voltar" lá, mas tudo bem.
+
+Eh, participante... Como é que eu faço? Eu posso mostrar mais alguma coisa? Tem...
+
+Pesquisador: Então, eh, cara, se o experimento tá criado, pode terminar de mexer nesses botõezinhos aí. Mas aí é isso. Se você quiser ver aí alguma coisa em "Editar Participantes", não sei, talvez te interesse.
+
+P8: Tá. Aí eu tenho o usuário, escrevo o usuário. É assim: pá, pá, pá. O que me incomoda, por exemplo, é que vem uma lista em nome de pessoas, provavelmente as pessoas estão participando no geral. Não... Então deve estar aberto isso, né? Eu não tenho... Deixa eu botar o meu aqui só para fazer. Tá aqui, tem que pesquisar... Copiar link. Então aqui o link para mandar o link pra pessoa, é isso. Posso salvar isso... Que agora foi aqui, certo? Novamente, aqui eu não tenho "Voltar". Eu vou pôr no início. Aí "Disponíveis" também tá disponível para mim, tá. Eu vou... Tô entrando como participante do meu mesmo experimento. Aceitar. OK. E agora tô participando do experimento, tá? Masculino. Agora tô respondendo... O que acontece? Agora já tô testando o meu próprio experimento através das questões pré e pós, né? Faixa etária... Aí tô respondendo a terceira pergunta: "Tem por hábito utilizar ChatGPT, Gemini, etc. para aprendizagem?". "Sim, desde buscas de novos conhecimentos até elaboração e síntese de pesquisas existentes", né?
+
+"Que elementos e indicações..." "Respostas coerentes e concisas e não exaustivas. Apresentação de fontes e evidências quando possível". "E caso você considere a resposta incompleta..." Aí tô respondendo as questões aqui: "Quando não traz..." Entrou alguém aí? Invadiu agora de alguém? Entrou?
+
+Pesquisador: Não, não. Entrou um cara aqui, o Pesquisador 2, que é meu parceiro de projeto. Ele só tá te acompanhando aqui também.
+
+P8: Ah, tá bom. "Quando não traz evidências ou fontes para confirmação posterior". Aí tô salvando. Em tese, respondi o questionário prévio. Ah, ele tá me dizendo que foi submetido o questionário, né? Já tô como participante. Eh, aí eu vou para a tarefa: iniciar, tá. Aí ele chamou um chatbot aqui, né? Ele não tá sincronizado com a minha pergunta, minha pesquisa, né? Então aquilo que eu botei de alimentação não veio, né? "Montar camadas de bolachas de silício etc. para microcircuitos empregados na indústria", pergunta. OK.
+
+Tá, ele vai dar erro da chave, eu paro. Confirmar. Busca bem-sucedida, ele fez aqui e tudo mais. Ãh, aí a próxima tarefa... Que eu tinha colocado uma segunda tarefa, né? "Quais são as redes e materiais utilizados para fazer conexão biossintética em membros robóticos para o corpo humano, considerando veias, músculos e tecidos?", por exemplo, né? Aí o problema da chave, OK, beleza. Parei, confirmei. Essa única, e agora vou testar o... Aí agora são as perguntas do pós, né? E aí lá em cima tá me avisando que se eu preenchi uma vez, não posso mais enviar de novo, né? "Foi dentro do..."
+
+Pesquisador: Dá licença, cara. Eu vou te pedir só para preencher agora com qualquer resposta o finalzinho por causa do nosso tempo, tá?
+
+P8: Tô fechando já. OK. Acabei de preencher o questionário pós, tá? E aí tá "Finalizar o experimento". Nesse caso aqui, eu imagino que, como eu sou pesquisador, eu tô fazendo o teste beta do meu experimento, né? E eu finalizo aqui como participante desse experimento. Aí eu tenho uma aba de experimentos criados, que são os meus experimentos disponíveis de quando eu tava respondendo nesse teste beta. Imagino agora que ele vai me habilitar a ver os dados do experimento. Eu tenho um participante analisado, taxa de conclusão, contato quando fez, o tempo que demorou de gasto, etc. e tal. Eh, senti falta, no caso, como era um chat, que tivesse o histórico das interações, esse tipo de coisa, né? Ou acesso... Em princípio não sei se é aqui, mas o acesso à resposta dele, né? Tivesse o log das interações, né? Então questionário tá aqui, métrica de interação tá aqui, OK. As métricas são as métricas clássicas básicas. Mensagem não consigo ver... Deve estar em algum lugar aqui. Ah, tá aqui a mensagem. Tá, acabei de ver a mensagem, achei em outro lugar. OK, beleza. Eu terminei aqui. Se quiser...
+
+Pesquisador: P8, vou te agradecer, cara. Obrigado mesmo por ter participado, aceitado participar do experimento. Eh...
+
+P8: Desculpa alguma bagunça que eu tenha feito aí, porque...
+
+Pesquisador: Não, cara, não. Deixa eu parar de gravar aqui, mas é exatamente isso que a gente queria. Te peço desculpa aí pelo fim.

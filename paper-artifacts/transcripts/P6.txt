@@ -1,0 +1,95 @@
+Pesquisador: Beleza, a gente tá gravando. Bem, como eu te disse, durante toda a atividade, eu gostaria que você pensasse em voz alta. Ou seja, eu espero que você verbalize tudo o que estiver passando pela sua cabeça enquanto vai mexendo na ferramenta, seja o que você tá procurando ou aquilo que espera que aconteça: "Ah, eu espero que isso aconteça quando eu apertar aqui ou fizer isso". Quando você não entender alguma coisa ou quando encontrar alguma dificuldade, enfim... Você não precisa se preocupar em explicar para mim, mas eu vou te pedir apenas para falar naturally enquanto utiliza a ferramenta, tá bem? E caso você fique alguns segundinhos em silêncio, eu vou só te lembrar: "Continua verbalizando seus pensamentos", OK? Você consegue explicar rapidinho qual foi o experimento que você pensou?
+
+P6: Eh... Então, ai, calma aí que minha internet tá... Acho que foi. Eh, eu tenho vários ingredientes em casa e quero saber se uma pessoa usando o GPT ou usando o Google consegue chegar numa receita da forma que ela deseja, e por qual dos métodos seria melhor.
+
+Pesquisador: Entendi, OK. Pode se cadastrar aí na plataforma e fazer o que parecer melhor para você.
+
+P6: Beleza! Então, cadastrar... Pode usar o mesmo e-mail que tem ou usa outro?
+
+Pesquisador: Então, provavelmente não vai dar se você já tem uma conta com esse e-mail, né?
+
+P6: Beleza. E eu sou pesquisadora...
+
+(Realiza o cadastro na tela) Então, vou iniciar o experimento. Tava muito intuitivo até então. O título do meu experimento vai ser "Google VS ChatGPT".
+
+Pesquisador: OK, rapidinho. Você apertou ali em "Novo Experimento" porque você entendeu que...
+
+P6: Sim! Como eu quero criar um novo experimento e o botão tava bem na minha cara, então para mim foi bem intuitivo clicar ali.
+
+Aqui tá me pedindo um título para o meu experimento, então eu imagino que seja colocar o que eu quero fazer em suma: "Google VS ChatGPT: dado os ingredientes que você tem na geladeira".
+
+A descrição do experimento imagino que seja para eu descrever sucintamente o que as pessoas vão encontrar quando abrirem a janela do experimento mesmo. Então eu faria uma descrição tentando puxar a pessoa para se desenvolver na atividade. Tipo: "Você está em casa com alguns ingredientes que para você não se combinam, mas gostaria de fazer uma receita. Utilizando alguma ferramenta, você tem o objetivo de chegar numa receita final."
+
+Eu não sei se, por exemplo, eu já colocaria que vão existir grupos de pessoas em que uma vai usar o ChatGPT e a outra vai usar o Google... Não sei se eu já colocaria isso ou se tenho que deixar implícito.
+
+Pesquisador: A sua dúvida é mais acerca do texto do que colocar, ou você acha que não tá clara essa parte aí?
+
+P6: É mais na dúvida se tenho que esconder que vão existir dois grupos de pessoas, sabe? Mas não sei se as pessoas têm essa dúvida... Deixa eu ver se eu for para o próximo, eu posso voltar?
+
+Pesquisador: Pode voltar, sim.
+
+P6: Beleza. Vou colocar só: "Siga as instruções". Não vou colocar que tem dois grupos de pessoas, não.
+
+A parte do consentimento, na minha cabeça (e pelo que li ali), é para que as pessoas saibam que é um experimento de pesquisa, sobre o comitê de ética básico.
+
+Pesquisador: A gente não tá muito preocupado com o contexto do texto, só te falando para não gastar muito sua energia.
+
+P6: Tá bom! Título: "Termo de Uso". Descrição: "Você irá participar de uma pesquisa." Vou usar outros recursos do editor de texto só porque é legal... Fiz um título H1 e negrito em "pesquisa".
+(Ao testar os botões de formatação) Ih, não gostei desse ícone do T com X, apagou tudo! [risos]. O ícone do T com X para mim não fez sentido.
+
+Próximo: Questionários. "Nenhum questionário foi encontrado..." Bem intuitivo, vou clicar em "Criar Questionário". Quero entender quanto a pessoa já cozinha, o know-how que ela tem de culinária.
+
+Título: "Quanto você sabe de culinária?"
+
+Descrição: "Quero entender seu entendimento de culinária." (Acho que a descrição não deveria ser obrigatória, talvez o título já fosse suficiente).
+
+Opção "Resposta Única" selecionada.
+
+Vou adicionar questões:
+
+Questão 1 (Resposta Curta): "Você começou a cozinhar com quantos anos?"
+(Sobre os tipos de questão) Não faço ideia do que é "Texto enriquecido", não tá claro para mim. Mas entendi Resposta Curta, Múltipla Escolha e Caixa de Seleção.
+
+Questão 2 (Múltipla Escolha): "Você gosta de cozinhar?" Options: Sim, Não. Adicionei pontuação de 1 ponto para "Sim". Salvar.
+
+Também quero criar um pós-teste:
+
+Título: "Você conseguiu criar uma receita?"
+
+Questão 1 (Múltipla Escolha): "Você conseguiu criar uma receita?" Options: Sim, Não. Salvar.
+
+Próximo: Delineamento do Estudo.
+Opções: Intra-sujeitos ou Entre-sujeitos. Gostei disso porque já tinha esquecido! Cliquei no "Saiba mais" por curiosidade e para entender o que é cada delineamento. Muito bom esse "Saiba mais"! Vou escolher "Entre-sujeitos" e "Aleatório". Próximo.
+
+Tarefas:
+Gostei da descrição explicando que em estudos com múltiplos grupos é criada uma tarefa específica para cada grupo experimental.
+
+Criando Tarefa 1: "ChatGPT: crie uma receita". Interface: Chat (OpenAI). Instruções: "Seja bem explicativo, utilizando os conceitos de gastronomia claros..."
+Vincular questionários: Selecionei os questionários criados. (Fiquei em dúvida de como a ordem pré e pós se aplica aqui, mas entendi que a ordem configurada anteriormente já prevalece).
+Sumário da tarefa: Entendi que o sumário seriam os passos ("1. Abra o GPT; 2. Diga quais ingredientes tem na sua geladeira...") e a descrição seria o texto corrido. Criar.
+
+Agora vou criar a Tarefa 2 para o Google. Queria copiar o texto do sumário da anterior... Cancelei a operação, cliquei no lápis de editar a Tarefa 1, copiei o texto e voltei.
+
+Pesquisador: No caso, o que você tá buscando é duplicar a tarefa já criada, né?
+
+P6: Ah! Você me deu a dica! Tem o botão de "Duplicar"! Não tinha pensado nessa. Ficou claro agora que me lembrou que eu poderia duplicar, mas eu ia fazer por outra via.
+
+Vou duplicar e ajustar: "Google: crie uma receita". Interface: Motor de busca (Google). Passos ajustados para o Google. Criar.
+
+Ficou intuitivo para mim que após ter duas tarefas eu já tenho dois grupos de pesquisa.
+
+Próximo: Revisão e Conclusão. Mostra o resumo do estudo.
+Apenas uma dúvida: na tela de questionários, como pesquisadora, eu gostaria que ficasse mais separado qual questionário está sendo aplicado em qual tarefa, sem precisar voltar as etapas.
+
+Mas de resto, perfeito. Criar experimento!
+
+Agora posso ativar o experimento... Entendi que se ele estiver desativado, os participantes adicionados não conseguem acessar para responder. Adicionei um participante de teste.
+
+Voltando ao início, nos botões de opções do experimento: "Mais opções > Exportar".
+Uma observação: a aba "Experimentos Disponíveis" no início não me fez entender de primeira o que era. Tive que ler a explicação para perceber que se tratava dos experimentos atribuídos a mim como participante.
+
+Pesquisador: Perfeito, você mexeu nos botões ali. É isso!
+
+P6: É isso! 
+
+Pesquisador: Vou parar de gravar aqui, tá?
