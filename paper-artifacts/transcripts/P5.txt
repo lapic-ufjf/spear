@@ -1,0 +1,229 @@
+Pesquisador: Beleza, P5. Então, como eu te disse, durante toda a atividade, eu gostaria que você pensasse em voz alta. pode verbalizar então tudo que tiver passando pela sua cabeça, você tá procurando, que você espera que aconteça, quando alguma coisa parecer confusa, quando você encontrar alguma dificuldade, enfim, eh, não se preocupe em explicar para mim, mas apenas falar naturalmente enquanto você utiliza a ferramenta. Caso você fique alguns segundos em silêncio, eu vou te lembrar de continuar verbalizando seus pensamentos. Agora, P5, eh, eu queria que você me explicasse rapidinho o experimento que você pensou para colocar aí na ferramenta, tá bom? Eu vou vou colocar, vou fazer a adaptação de um
+
+P5: experimento, né, que eu fiz com com aluno meu, que eh na verdade aqui no no caso vai ser utilizando tanto uma inteligência artificial quanto uma um busca, né, num ferramenta de busca normal, né? experimento vai ser um adaptado porque ele originalmente foi eh foi desenvolvido só para ferramenta de busca, mas basicamente é paraa pessoa eh eh fazer três tarefas de busca, tá? O com complexidades diferentes, tá? a primeira tarefa de busca vai ser para ela eh pensar eh eh eh buscar sobre alguns assuntos que são eh assuntos de de física, né? Eh sobre massa, volume e densidade, né? Eh, o segundo assunto vai ser para ela buscar, pra pessoa buscar sobre sistemas, o sistema muscular esquelético e o terceiro assunto para ela fazer uma busca sobre uma próteses próteses de de juntas, né? Prótese para joelho, por exemplo, prótese para para cotovelo, enfim, para ombro, essas coisas. Então esse vai ser o experimento que eu vou criar aqui, tá?
+
+Pesquisador: OK. Eh, só vou te falar para você não se preocupar muito com o texto. Não precisa de fato tá, sei lá, colocar,
+
+P5: tá? Não, só para, só criar a estrutura dele, né?
+
+Pesquisador: Exato. Exato. A gente tá mais preocupado com a utilização da ferramenta. Então, P5, pode começar aí.
+
+P5: Então, vamos lá. Eu vou começar aqui com a criar aqui novo experimento, né? Vou colocar aqui eh chamar o experimento de de busca eh chatt, tá? Aqui a descrição do experimento é basicamente o que eu comentei com você. Deixa eu só botar aqui eh três três atividades de busca com complexidades diferentes, tá? Eh, aqui eu não vou dar uma descrição muito muito detalhada, né? Mas é vai ser basicamente aquelas três atividades. eh uma atividade vai ser eh procurar as definições de massa, volume, peso, densidade. Na verdade, eu vou botar peso, massa, volume, massa, volume, densidade. A segunda atividade vai ser, tá? Vou botar aqui só as definições, tá? Mas na verdade depois eu peço paraa pessoa diferenciar peso e massa, mas aqui vai ser só eh as definições, tá? Eh, procurar eh vou botar procurar, vou botar estudar aqui, vou deixar só definições, tá? Isso aqui eu vou botar estudar sobre sistema esquelético lar. E o terceiro vou botar falar pesquisar sobre as características de próteses para juntas do corpo humano. Vai tá aqui. Exemplo, joelho, eh, então. Tá. Então, vamos para o próximo aqui. Isso aqui eu tô colocando só metadados ainda.
+
+Pesquisador: Uhum. Eh, título do termo de consentimento. Você apertou ali em próximo.
+
+P5: Próximo. Isso. Apertei em próximo. Quer que volte aqui para você?
+
+Pesquisador: Não, eu só quero entender se ficou claro que aí já foi tudo que que tinha para para fazer.
+
+P5: Sim, sim. É, eu aqui no metas dados eu tô eu não tô sendo eh eu não vou descrever tanto pra gente não perder tempo, tá? Mas geralmente eu botaria eh estaria uma melhor explicar. Então, é, eh, coloque definições, procure as definições de peso, massa, volume, densidade e compare peso e massa, né? Faria mais detalhado, né?
+
+Pesquisador: OK. Mas assim, você entendeu bem então o para você o que que essa tela aí significa e
+
+P5: Sim, sim. Colocando
+
+Pesquisador: definições de de metadados da do experimento, né?
+
+P5: OK. Agora o termo de consentimento, né? Titulou o termo de consentimento, né? Eh,
+
+Pesquisador: pode simplificar.
+
+P5: Posso, eu vou dar termo de consentimento, né? Sentimento. Geralmente teria o texto aqui, né? O termo de consentimento aqui um pouco parecido com aquele que você colocou, né? Eh, colocaria aqui a a descrição, né, do que a pessoa precisaria fazer, né? Aí colocaria, ó, aqui você faria, você vai fazer três atividades, né, de de busca, tanto em ferramenta de busca quanto em um chat, né, de de e a generativa. Explicarei os três os três consentimentos, né, as três atividades. E ali falaria, além disso, né, falaria que pessoa eh poderia desistir em qualquer momento, poderia eh eh pedir para não usar no futuro os dados dela, enfim, aquelas explicações todas, tá? E aqui tá a descrição detalhada do termo de consentimento que será apresentado ao participante. Se você quiser, eu posso até buscar um termo de consentimento que eu tenha feito aqui para colocar lá para você ter ele. Se for
+
+Pesquisador: assim, não, não, de fato o texto não é o mais importante pra gente. Então,
+
+P5: então beleza, vou botar aqui só eh termo de consentimento descrita. Uhum. Tá. Ah, próximos aqui, questionário, né? Aqui, na verdade, questionário nesse nesse experimento não teria um pod teria sim, poderia até ter um pré e pós questionário, sim. Tá. Eh, então como é que seria esse questionário, tá? Tá, tô explicando para você porque eu não eu não pretendo criar o questionário aqui, tá? Mas eu vou te falar o que eu que eu falaria. Vou criar algumas questões aqui só pra gente ver o funcionamento, tá?
+
+P5: Uhum.
+
+P5: Mas eh eh basicamente o que que faria? Faria eh um questionário. Antes antes de iniciar cada uma dessas buscas, teria um questionário sobre cada um dos assuntos, tá? Então um sobre o o pré e pós, né? eh do eh da primeiro da primeira atividade, que seria buscar essas informações de física, um segundo sobre sistema esquelético e e muscular. E o terceiro seria sobre próteses ali, né? Eh, até para facilitar, deixa eu até buscar aqui. Eu coloquei isso em uma um paper. Tem o questionário no anexo, se eu não me engano. Deixa eu só acessar esse anexo. Aí eu posso colocar uma ou outra questão aqui desse questionário,
+
+P5: mas só pra gente ver o funcionamento do do sistema, né? Com questões mesmo.
+
+P5: Só me dar um segundo para eu achar.
+
+Pesquisador: Tranquilo,
+
+P5: tá? Deixa eu ver aqui. Você está aqui no que eu vou suplementar. Vamos ver se eu coloquei aqui nesse, ó. Ah, não, isso aqui é de é de outro cara. Não foi especificamente me confundi, mas deixa eu ver o especificamente do que a gente
+
+Pesquisador: eh se você também, P5, eh pode ir mexendo aí na ferramenta e assim criar um questionário totalmente hipotético, não precisa tá saber,
+
+P5: tá? Só fazer uma última aqui,
+
+P5: Tá? Ver se na SBS. Isso foi na SBS. Provavelmente eu não coloquei aqui no paper. Deve tá no Deixa eu ver onde que tá aqui. Artefatos estão aqui no transcrições. Tá s tá numa dessas aqui, um desses enodos aqui. Acho que eu não botei não. Vou, eu vou criar a hipoteticamente.
+
+P5: É, não, que as informações que eu tenho são outras, tá?
+
+P5: Então vamos, vamos criar aqui. Tentei fazer isso aí pra gente, só para facilitar, mas eu acho que tá vai dificultar. Então vamos criar aqui o questionário, tá? Para questionário ser respondível antes da tarefa. Aqui já tá até inclusive o tipo de questionário aqui tem para e pós, né? Vamos botar aqui eh sobre questões de física, pescão do questionário. É aqui é teste para apoiar. a atividade são várias questões na questão. Eh, tipo de questão, vamos botar múltipla escolha se da questão eh, o que é massa? Tá. Adicionar menos uma opção. Adicionar a opção. V aqui. Pontuação. Eu quero dar opção um. Vou botar aqui a resposta um. Ó, vou botar quatro respostas, tá? Resposta.
+
+Pesquisador: Uhum. E ali eu vi que você acertou no pontuação. 
+
+P5: sim, eu vou dar peso pra resposta que é a certa. Tá. Isso aqui é a minha intenção. Vamos botar aqui a resposta três e resposta 3 e resposta 4. Vamos dizer que a resposta três é certa, tá? Vou botar um aqui nela. Salvar. Então tem aqui o questionário, questão de física, tem uma só, né? Eu tenho como voltar aqui para atar mais questões?
+
+P5: Então editar ele aqui. Ah, eu posso adicionar mais questões. Agora entendi aqui.
+
+Pesquisador: E se você achar que não ficou claro ou coisa do tipo.
+
+P5: É, não, porque eu botei salvar aqui com ele salvou todos. Mas tá claro, se eu posso ir colocando tudo e coloc e e colocar salvar, né? Poderia ter aqui só para só para uma não confundir, tipo salvar e continuar, sabe? eh com o formulário que o salvar aqui, quando eu clico no salvar, ele salva todo o questionário e aí volta aqui. Então eu teria que editá-lo novamente para iniciar mais questões, mas isso é um preciosismo. Só botar uma segunda questão aqui. O que é volume? botar também como a questão múltipla escolha. Botar as quatro opções aqui já. Resposta 1 2 3 e 4. E aqui nessa vai ser a resposta um. E c tirei uma aqui. Quem tem alguma besteira aqui? Eu tirei duas respostas.
+
+P5: Eu apertei, se eu não me engano, eu apertei aqui no excluir, mas eu acho que eu apertei rapidamente em dois, tá? Me pareceu essa essa situação. Isso aqui vai ser o peso um, vai ser nessa daqui.
+
+Pesquisador: Aí você selecionou novamente pontuação para colocar peso, né?
+
+P5: Isso. Exato. Na resposta que é correta. Então, salvei. Bom, tá aqui. Eu vou deixar essas duas questões, tá? Então, digamos aqui, eu vou fazer o seguinte, só pra gente ficar, esse vai ser o o pré-questionário. Eu vou criar um post também, só pra gente ter o outro aqui. E aí você foi ali no botãozinho de fui no botão de criar, adicionar, questionar. Eh, deixa eu ver qual que foi o Não lembro qual foi o título que eu coloquei. Vou botar aqui questões física, botar dois aqui. faz teste de acompanhamento. Ah, a atividade eu vou fazer a mesma coisa, tá? Fazer hoje para escolha. Vou botar aí, vou botar agora a questão eh o que é o que é volume light. Vou adicionar aqui quatro opções, tá? um 34 e vou adicionar a pontuação aqui, tá? Aqui vamos ver que eu tenho colocado resposta quatro. Adicionar mais uma questão aqui que é o que a massa. Colocar mesmas questões, né? mas em ordem diferente, tá? que é do pré-postagar quatro opções. Está uma, dois quatro e adicionar a pontuação aqui. Isso aqui digamos que seja três. Salvar. OK. E tô com os meus dois questionários aqui, questões de física e questões de física dois, tá? Pré-post teste e aí a ideia eu falar, faria isso aí em todas as as atividades, tá? Digamos assim, 10 questões para cada uma e usarei as mesmas questões em ordem diferente.
+
+P5: OK?
+
+P5: Tá? Vamos botar aqui o delineamento do estudo. Então, eu vou clicar aqui no próximo, tá? eh para ir pro quarto tópico, que é o delineamento do estudo.
+
+Pesquisador: Perfeito.
+
+P5: Então vamos ver aqui. Intr sujeitos todos os participantes realizam todas as tarefas. Ao menos uma tarefa deve ser criada. E vamos ver quais são as opções entre sujeitos. Vamos ver. São locados em grupos de tarefas. Não, aqui é intra sujeitos, tá? Porque qual que é a ideia desse experimento aqui? Experimento é que você tenha vários voluntários, né, ou vários usuários ali usando uma ou uma ferramenta de busca. Aí no nosso caso ali, só para você entender, no nosso caso era um plugin, tá? que capturava lá que a pessoa tava fazendo na no Google, por exemplo. Então, a ideia era que a pessoa eh se ter vários eh aí alguns voluntários, dá para realizar essas três buscas, né? E a gente iria capturando. E a ideia do do experimento é um pouco parecido com esse, né? A pessoa ir falando e realizando a busca e vai falando ali, né, verbalizando o que ela tá dizendo, né? principalmente o processo de decisão dela. Então vamos no próximo. Nenhuma tarefa foi encontrado. Nova tarefa. Adicione pelo menos uma tarefa para prosseguir. Essas tarefas definem as atividades que os participantes deverão utilizar realizar durante o experimento em estudos com multe grupos entre sujeitos criado uma tarefa específica para cada grupo experimentado. Então vamos ver o que vem aqui na tarefa, tá? Aí,
+
+Pesquisador: eh, assim, especificamente pro seu experimento, vai dar certo porque ele utiliza chato de busca, mas nessa aba de criação de tarefas, a ideia é não se limitar mais só esses dois. Então, assim, como o seu experimento tá dentro disso aí, eh, você pode selecionar a interface de interação que você vai querer usar ali e tal, tranquilo.
+
+Pesquisador: Mas aí também é é mais para supor que você tá subindo sua aplicação. OK.
+
+P5: Tá. Eh, assim, na, na verdade, qual que eu faria aqui, cada tarefa seria as atividades, tá? Então assim, atividade um, que é buscar, eu vou botar no sumário aqui, título sua atividade é o sumário. Vou explicar aqui, buscar conceitos de peso, massa, volume e densidade. E aqui nesse caso eu vou botar para comparar e contrastar. Tá? Então isso que a pessoa tem que fazer. Então sumário da tarefa. Vou repetir isso daqui, mas eu tô entendendo que seria uma descrição mais detalhada, né? É o interface de interação aqui, eu vou fazer no chat, tá? Vamos entender aqui o Penai tem su mini manter a mascarada aqui. Eu vou isso aqui eu eu teria que fornecer, né? Eu forneceria ali no modelo ou vocês têm alguma chave aí?
+
+Pesquisador: Não, não. Aí você pode colocar qualquer coisa aí. Aí se você Mas aí você teria que fornecer, né? Ah, bom.
+
+Pesquisador: Isso ficou claro?
+
+P5: Ficou, ficou. Eh, aqui o modelo é esse e esse aqui seria o a PI desse modelo, tá? Tá. Só me explica uma coisa, esse daqui vocês estão eh eh vocês estão fornecendo, por exemplo, aqui do das da Open Ai, né? todos esses aqui. Então eu iria, por exemplo, ali, entraria aqui no chat GPT, por exemplo, ou no apend do chat GPT e criaria especificamente uma API para esse para essa atividade. Essa API não estaria eh não seria não seria buscar a a tua ferramenta buscaria essa API com base aqui na na chave, né? Isso.
+
+P5: E geraria ali o chat com base nisso. É isso.
+
+Pesquisador: Exatamente.
+
+P5: Tá bom.
+
+P5: Quer exemplo seja objetivo. Tá bom. Vou colocar aqui um uma instrução que seria o prompt, né?
+
+Pesquisador: Isso.
+
+P5: Prompt Tá. Vou botar aqui qualquer que assim, ó. Eh, busque com base que o usuário descer as respostas mais adequadas. Eh, eh, intenção seja objetivo, mas de informações suficientes para outro usuário. entender a resposta de Ah, uma coisa aqui assim, eh, vincular questionário seria o quê?
+
+Pesquisador: Então você,
+
+P5: tá, posso vincular aqui, tá? Questionagem que eu fiz. Mas eu não quero vincular não.
+
+Pesquisador: OK. Então você vai deixar essa opção desabilitada, né?
+
+P5: Vou deixar desabilitado. Tá. Ah, então tem que escrever alguma coisa. Ah, ver se ele aceita aqui. Então, fizer atividade um. Então, faria isso aí para cada uma das atividades. É que eu vou vou fazer uma outra coisa aqui. Eu vou criar eh vou fazer o seguinte, vou botar aqui atividade um charts, vou criar aqui uma outra atividade. Aqui vai ser o motor de busca, tá? Aqui vai ser o mesmo do outro lá.
+
+P5: Vou botar aqui só pra gente aqui. Vou botar mesmo texto, né?
+
+Pesquisador: Então aí no caso você, a sua intenção é repetir as informações do outro.
+
+P5: Isso
+
+P5: aqui só mudando algumas coisas, né?
+
+P5: Isso. Só mudando algumas coisas. E aí para fazer isso foi em nova tarefa. Isso foi nova tarefa que foi
+
+Pesquisador: aqui o motor de busca aqui. Você
+
+P5: bateu uma p do Google, né?
+
+Pesquisador: O nova tarefa ali foi o que você viu assim que pareceu mais intuitivo para meio que repetir a atividade, só que mudando só algumas coisas.
+
+P5: Sim, exatamente. Eh, vou botar aqui qualquer coisa, tá? Vai ter um número aqui. Tá aqui, ó. Pronto, fiz dois tarefas aqui. OK. Delineamento, né? Das atividades.
+
+Pesquisador: Tem alguns botões aí, se você quiser explorar eles também dentro da das atividades que você
+
+P5: Ah, é, deixa eu ver aqui quais seriam os botões. Eu tô vendo esse aqui de vincular, né?
+
+Pesquisador: Exato.
+
+P5: E na verdade eu falo de pode sair dessa aba.
+
+Pesquisador: Ah,
+
+Pesquisador: aí, ó. Tá vendo aí onde tem as as atividades que você criou?
+
+P5: Sim,
+
+P5: tem uma lixeirinha, tem... Ah, tá. Ah, o editar é que eu vi, né? Esse daqui opção. Ah, tá. Tem opções. Você entra direto para editar. Isso.
+
+Pesquisador: E se não ficou claro o que que ele faz esse botão?
+
+P5: Não, porque ele tá ele tá fazendo a mesma coisa que, ó, cliquei no editar. Tá, ele abriu aqui. Isso aqui eu já tinha percebido que era editar. Esse daqui tá como duplicar, né?
+
+Pesquisador: Isso.
+
+P5: Ele duplicou aqui. Tarefa duplicada. Ah, tá, entendi. Tarefa duplicada rev os detalhes e salve. Tá. Teria que colocar criar aqui, né?
+
+Pesquisador: Exatamente.
+
+P5: Deixa eu botar aqui criar para ver o que acontece. Ah, tá. Ele criou uma cópia. Isso aqui é menos e mais informações, né? 
+
+Pesquisador: Sim, sim. Você editou, você apertou onde você foi para ir aí?
+
+P5: Então, eu fui no editar.
+
+Pesquisador: Uhum.
+
+P5: Tá. E editei aqui a tarefa dois. Eu utilizei o duplicar aqui. E aí eu vou fazer a mesma coisa com a outra aqui. Deixa eu só fazer dois. Salvar. Eu vou fazer a mesma coisa com o chat aqui pra gente ver. Vou clicar em duplicar. Vou mudar aqui o nome, né?
+
+Pesquisador: Uhum.
+
+P5: E vou dar um criar. Pronto. Tem como dar a ordem aqui? Não, né? Não.
+
+P5: Ah, seria interessante se pudesse reorganizar
+
+Pesquisador: Uhum.
+
+P5: A ordem das tarefas, tá? Eh, mas tudo bem. Eu vou partir agora paraa próxima, que é essas tarefas aqui, né? Na verdade, das atividades. Vamos ver o que que tem na tarefa aqui. Tarefa revisão e conclusão, né? Título: busca chat and sech, experimento, entra sujeito. Descrição. Tá aqui os questionários. Deixa eu te contar uma coisa. Eu fui para Ah, tá.
+
+Pesquisador: Eh, qual qual que é a sua dúvida? Pode,
+
+P5: tá. Eu estava em tarefas, né? Uhum.
+
+P5: Tá, eu estava em tarefas. É porque momentaneamente eu achei que estava no delineamento do estudo porque o tarefa estava como apagada aqui, obviamente porque eu estava eu estava editando ela, né? E agora que não parei de digitar tá completo. Então, próximos tarefa, revisão e conclusão. Você conferiu isso porque você olhou para
+
+P5: É porque é porque eu tava olhando aqui a linha do tempo, tá?
+
+Pesquisador: OK.
+
+Pesquisador: Então ela tava ela tava tarefa tava cinco, como tá aqui revisão e conclusão, tá?
+
+P5: Uhum. Então, momentaneamente, eu achei que tava no na etapa anterior, mas isso foi erro meu mesmo. Eh, então vou clicar aqui para criar, né? Tô revendo aqui eh o experimento. Eh, tô vendo aqui checando, tá aqui com descrição, as tarefas e o questionários que eu criei. E vou clicar aqui para criar o experimento. Criei o experimento aqui. Tá dando como sucesso. Então, tá aqui já na minha página inicial, experimentos criados, um, experimentos disponíveis, um. Eh, ah, não, esse aqui é o experimento anterior, né, que eu fiz de vocês, né?
+
+Pesquisador: Uhum.
+
+P5: Tá. E esse aqui é o criado. Esse aqui que eu criei.
+
+Pesquisador: Isso. Tem alguns botõezinhos aí nesse experimento que você criou agora? Se você quiser mexer...
+
+P5: Eu cliquei o primeiro aqui que é monitoramento. É participante. Ainda não tem nenhum. métricas de interação, tá? Então, tô entendendo que esse daqui eu vou checando, né? O número de participantes finalizados. Eh, editar esse, esse desativado aqui é o quê? Ah, tá para ativar, eu tenho que ativar ele. Então, não tinha ativado. Vou ativar ele aqui. Tá ativado. Qual que é a diferença do ativado e não e o desativado? Só eu visualizo é isso. Seria isso.
+
+P5: Exatamente. Quando você adicionar participantes,
+
+P5: se você desativar, ele não aparece pros participantes,
+
+P5: tá. E aqui pro participante, eu tô entendendo aqui o eh deixa eu ver se tá o meu nome aqui. Não. Colocaria como um participante aqui. Tem seu nome aqui. Vamos ver se aparece aqui, ó. Tem aqui o meu. V me colocar aqui como participante. Salvar. Vamos ver o que acontece. Provavelmente eu vou receber um e-mail, né? Uhum.
+
+p5: Copiar link do convite. Copiei o link do convite aqui. Vamos mandar um, vou mandar um e-mail para mim aqui. Eh,
+
+P5: aquele e-mail lá.
+
+Pesquisador: Uhum. E sobre sobre essa tela, assim, seu entendimento aí na nessa área de editar participante, ficou tudo claro? Como é que você adiciona ou remove? Enfim,
+
+P5: olha, é, ficou claro se pareceu para mim muito intuitivo, tá? Eh, não sei se é deixa eu dar um salvar aqui. Eu v com sucesso. OK. Agora, como é que eu volto lá pra tela inicial aqui? Acho que deveria ter um é clicar o início, né?
+
+Pesquisador: Uhum. Mas depois você acha que sei, talvez falta,
+
+P5: é, talvez ali um um voltar, né? Alguma coisa assim. Mas ok, assim, é intuitivo, dá para saber porque eh quem utiliza sistemas de uma maneira geral, né, entende que é assim que eles funcionam, né? Mas assim, você vê que, por exemplo, ali tava tava esperando a tipo voltar paraa tela inicial ali, tem algum botão ali embaixo pudesse voltar.
+
+Pesquisador: Uhum.
+
+P5: E não tinha. Aí eu fui ali no iniciar. Mas de qualquer maneira é intuitivo, né? Editar aqui. Eu tô entendendo que é editar metadados, ó. Tá vendo, ó? Eh, assim, eu eu estaria esperando aqui entrando uma dessa ter um voltar aqui. Uhum.
+
+P5: Seria interessante ter, tá? Que eu volotaria pra mesma tela do início. Tudo bem? Mas eu tô entendendo que aqui no início, se eu tivesse outros experimentos, voltaria para eh eh todos os experimentos, né? Seria interessante assim ter uma tela assim um que eu tivesse só esse experimento específico na tela e eu tivesse pudesse ver fazer essas modificações todas, né? Ele voltasse para essa tela lá. Eh, do jeito que tá, eu tô entendendo que se eu tivesse outros experimentos, eu voltaria paraa tela principal e aí eu teria que olhar o meu experimento, enfim, provavelmente estaria na ordem, né, de um de criação, né? Então, se fosse o experimento mais novo, não teria problema, mas se tivesse editando experimento antigo, eu teria que descer, né, até o experimento antigo. Então, não sei se vale a pena. Fica só uma sugestão.
+
+P5: Você se quando clicar aqui, ó, busca de clicar aqui, eu entrar numa outra tela com essa mesma cara, mas só esse experimento. E aí eu pudesse editá-lo, né, fazer o que eu quisesse e aqui no final tivesse um voltar, eu voltasse para essa tela, tá?
+
+Pesquisador: Uhum.
+
+P5: Mas fora isso, tá? Ó, aqui, ó, eu eu me inclui lá. Então você vê aqui, ó, experimentos disponíveis, eu tô com os dois já, já entra automaticamente. Isso é legal. Tá aqui o eh o é o ativo aqui. Aqui eu tenho tenho as informações mais ou menos. Isso aqui eu achei interessante, ó. Já foi, já me incluiu aqui no experimento. 
