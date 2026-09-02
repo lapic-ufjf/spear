@@ -27,16 +27,16 @@ SPEAR is domain-agnostic and can be used in any context where understanding how 
 
 ## 🧠 Typical Use Cases
 
-Searchat Behavior can be used to support experiments such as:
+SPEAR can be used to support experiments such as:
 
-- Studying exploratory search behavior in open-ended information tasks
-- Analyzing user interactions with chatbots or conversational agents
-- Comparing search-based and chat-based information access strategies
-- Investigating decision-making, engagement, and interaction patterns
+- Studying exploratory behavior and navigation patterns in open-ended digital tasks.
+- Analyzing user interactions with web interfaces and interactive tools.
+- Comparing different information access strategies, system layouts, or features.
+- Investigating decision-making, engagement, and interaction patterns in online environments. 
 
 ## 🏗️ System Architecture (High-Level)
 
-Searchat Behavior follows a web-based client–server architecture composed of:
+SPEAR follows a Web-based client–server architecture composed of:
 
 - Frontend (Web Application): Provides user interfaces for both researchers and participants.
 - Backend (API Server): Handles experiment management, business logic, authentication, and data persistence.
