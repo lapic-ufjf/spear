@@ -12,9 +12,8 @@ A standardized framework for capturing authentic human behavior in search and AI
 
 ## Desciption
 
-Searchat Behavior is an end-to-end experimental framework for creating, managing, and running controlled experiments focused on user behavior during interactions with search engines and chat-based systems. The framework is designed to support empirical studies on how users search for information or  interact with conversational agents. It provides researchers with a complete toolchain to design experiments, deploy them as web-based studies, collect fine-grained interaction logs, visualize users data, and export standardized data for analysis and replication.
-
-Searchat Behavior is domain-agnostic and can be used in any context where understanding how users explore, search, or interact with conversational tools is essential.
+SPEAR (System for Planning, Executing, and Analyzing Research on Web) is an end-to-end experimental framework for creating, managing, and running controlled Web-based experiments focused on user behavior during interactions with digital systems and platforms. The framework is designed to support empirical studies on how users interact, navigate, and make decisions within interactive environments. It provides researchers with a complete toolchain to plan experiments, deploy them as Web-based studies, collect fine-grained interaction logs, visualize user data, and export standardized data for analysis and replication.
+SPEAR is domain-agnostic and can be used in any context where understanding how users explore interfaces, perform tasks, or interact with interactive technologies is essential.
 
 ## 🚀 Key Features
 
