@@ -1,0 +1,149 @@
+Pesquisador:
+Pronto, estamos gravando. Bem, P2, durante toda atividade gostaria que você pensasse em voz alta, ou seja, verbalize tudo que tiver passando pela sua cabeça, o que você tiver procurando, o que você espera que aconteça, quando algo parecer confuso também, ou quando você encontrar alguma dificuldade ou até mesmo quando alguma coisa fizer sentido.
+É, você não precisa se preocupar em explicar para mim, mas apenas em falar naturally enquanto utiliza a ferramenta.
+E assim, caso você fique alguns segundos em silêncio, eu posso apenas te lembrar de continuar verbalizando seus pensamentos.
+Eh, conforme eu te solicitei anteriormente, você pensou em algum experimento que você gostaria de realizar?
+
+P2:
+Eh, sim, eu pensei, eh, eu pensei foi assim, eh, no projeto que eu faço parte, eh, nós desenvolvemos uma solução que, eh, a gente criou um plugin do Word que serve para auxiliar aos elaboradores de itens. Itens são questões de prova, né? A justamente elaborar essas questões. Bom, essas questões não são simples, elas têm vários critérios de elaboração, enfim, não vou entrar muito em detalhes do que precisa ou não que esses itens precisam obedecer, mas não é tão trivial e simples de criar questões, ainda mais para provas em larga escala. Então, a gente criou essa solução, eh, que é baseada, que é um sistema multiagente, que serve justamente para auxiliar e facilitar o trabalho desses elaboradores, tanto para eles produzirem itens de uma qualidade melhor, né, mas também reduzir o tempo de criação desses itens, porque a demanda é muito alta lá onde eu trabalho. Então o experimento é justamente esse, verificar se a nossa solução tá surtindo efeito e tá melhorando a produção de itens, tanto na qualidade como reduzindo o tempo de produção. E é isso.
+
+Pesquisador:
+Legal. Obrigado, P2. A partir de agora pode começar a usar a ferramenta e verbalizando seus pensamentos.
+
+P2:
+OK. Eh, bom, isso aqui é a tela de login da ferramenta. Eu já tenho uma conta aqui, que eu participei de experimento anterior como participante, no experimento da teoria musical. Acredito que agora precise cadastrar outra conta como pesquisador. Então, vou cadastrar aqui. Nessa tela tem alguns campos, de nome, enfim. Vou colocar e-mail. Não sei se vai funcionar com o mesmo de antes, mas... 1 2 4 3 6. Eh, por favor, a senha precisa de mínimo seis caracteres, incluir maiúsculas. Tá. Hum. Precisa ter o quê? Eita. Precisa ter 2, 3, 4, caracteres especiais.
+
+P2:
+Tá.
+
+Pesquisador:
+Isso, cara. É rapidinho. Se você tiver algum outro e-mail, eu acho, acredito que você já tenha usado esse outro e-mail, né? Como você disse.
+
+P2:
+Aham. Vou usar o meu e-mail alternativo da instituição. Vou salvar porque talvez eu esqueça dessa senha. Eh, tá. "Experimentos criados", "experimentos disponíveis". Até agora, como eu criei agora minha conta, não tem nenhum experimento. Uma tela que diz que eu não tenho nenhum experimento, né? Então acho que vou criar um novo aqui. Eh, OK. Hum. Metadados, título do experimento, sei lá: "Impacto do uso do plugin na geração dos itens." Eu não sei se fica claro deixar "itens". Eu... é "itens". Eh, "descrição dos experimentos". Eu acho que aqui é a descrição que eu acabei de fazer para você aqui. Então, eh, "projeto"... "facilitar a elaboração de itens, projeto que eu faço parte, uma solução para fazer elaboração, os elaboradores então..." Aqui... a ferramenta... páginas da versão de itens úteis, que nós queremos... que a gente dá as especificações dos itens a serem elaborados, para analisar e ajustar, também com a opcionalidade de avaliar os elaboradores, seguindo critérios pedagógicos estabelecidos... então o experimento tem como objetivo avaliar se o uso do plugin melhora a elaboração. Pronto. Tá. É isso... o que é isso? "Termo de consentimento." Tem que... será preciso iniciar, suponho que seria o termo de consentimento, eu não sei muito bem. É...
+
+Pesquisador:
+Isso. Eh, aí no caso, quando as pessoas vão participar de um experimento, né, a gente precisa de um termo de consentimento. E aí, enfim, é só te ajudando, né? Porque você falou que não sabe muito bem, mas você pode colocar — você pode falar sobre o procedimento, eh, sobre os riscos e desconfortos, sobre os benefícios, confidencialidade do uso de dados, eh, enfim, sobre esse tipo de coisa. Pode também inventar aí da sua cabeça um termo de consentimento, fica à vontade.
+
+P2:
+Ah, tá. É parecido com aquele documentozinho que você me mandou?
+
+P2:
+Tá, eh, o título do termo de consentimento tem que ser diferente do título que eu criei aqui?
+
+Pesquisador:
+Não, pode colocar, por exemplo, "termo de consentimento, tal, tal", entendeu?
+
+P2:
+Termo de consentimento. Eh, "Análise do impacto na elaboração de itens." Tá? Eh, "descrição" — o texto será apresentado aos participantes antes de iniciar o experimento. Sem cuidado. Vai ser relativo ao impacto, auxiliará a avaliação... "riscos" — podem... Ah, tá. "Desconfortos." É, vou usar parecido aqui, tá bom? Eh,
+
+Pesquisador:
+Fica à vontade, tá? Se você quiser dar uma copiada lá.
+
+P2:
+Hã?
+
+Pesquisador:
+Fica à vontade se você quiser dar uma olhada lá para ter uma ideia.
+
+P2:
+Ah, tá. Bom demais. Esses são aqui. Se você já tiver um termo de consentimento em algum lugar e quiser copiar também, é só mandar. Bom, beleza. Beleza. Acho que isso é importante de guardar durante a sessão. Estamos bem, tá, acho que tá bom. Vou no próximo aqui: "questionário". Ah, tá. Aqui eles pedem descrição, questionário antes do experimento e depois — tá, título do questionário, tipo "questionário pré-tarefa", "questionário pré-experimento". ... aqui tem que... Ah, tá, tá, tá. Sei que é obrigatório a descrição... pera aí, a resposta.
+
+Pesquisador:
+P2, só lembrando que as dúvidas que você tiver sobre o sistema, ou você tiver pensando alguma coisa que pareceu confusa, você pode ir falando, OK?
+
+P2:
+Tá... Ah, beleza, "questão aberta". O que que seria essa? Não sei muito bem o que seria essa "resposta única". Eh, os detalhes... suponho que seja obrigatório, um campo obrigatório. Ah, não. Ah, entendi. Essa pessoa pode só responder, talvez editar o questionário depois, tá? Tá, o enunciado da questão um. Eh, bom, acho que vale ter a experiência do elaborador, né? Acho que uma pessoa com experiência maior automaticamente elaboraria itens com maior facilidade. ... "pouca... nenhuma... experiência pouca... experiência razoável... bastante experiência... obrigatoria." Pontuação e só... não sei, mas... é, no caso a gente só desenvolveu até agora para português, embora a gente tenha uma versão já desenvolvida para matemática. Então, acho que pode ser... "área de conhecimento", tá? "Área de conhecimento." Sim. "Etapa de ensino: iniciais, finais", tá? Eh, "anos iniciais" seria do primeiro ao sexto ano, e os "finais" seriam do sexto ao nono. Eu vou considerar que os experimentos vão ser já de fato para língua portuguesa. Enfim, só que tem diferença de itens, de habilidades, por etapas de ensino. Enfim, isso aqui serve só para — uma pessoa que elabora para os anos iniciais, ela também talvez poderia elaborar para os finais, mas ela tem maior afinidade, maior experiência nos anos iniciais, então talvez isso possa mudar algum fator na qualidade, na velocidade dos itens. Acho que tá bom. Eh, salvar o questionário. Hum. ... Próximo. Eh, "design do estudo".
+
+Pesquisador:
+Rapidinho. Eh, vai ser apenas um pré-questionário, então, né?
+
+P2:
+Ah, tá. Criar um outro, então. Criar...
+
+P2:
+Assim?
+
+Pesquisador:
+Como... faça da forma que você quiser.
+
+P2:
+Tá? Beleza. Pós... os primeiros — eh, ah, tem aquele "grupos" também, né? Não sei se vai ter uma opção para eu escolher: cada participante vai utilizar ou não a ferramenta, ou se vai ser tipo um grupo sem a ferramenta e outro grupo com, ou todo mundo vai usar os dois, um seguido do outro. Acho que... ah, desculpem, vou usar: todo mundo vai usar tudo para avaliar a eficácia da solução. Sim... acho que pode criar uma questão lá em cima, só para contradizer esse aqui, tipo "a ferramenta foi útil" — aí se a pessoa às vezes responder "sim e não" e "não" aqui, ela meio que só tá ignorando, respondendo tudo "sim", nem viu as perguntas, né? Então a gente estuda: "sim/não, o item gerado foi útil". Eh, tá. "Foi o item gerado." "Erros aqui." "Sim." É obrigatório. Se o...
+
+Pesquisador:
+Só lembrando, P2, só para lembrar que você pode ir falando aquilo que você tá achando intuitivo ou não.
+
+P2:
+Ah, tá.
+
+P2:
+Ou melhor, essa questão aqui de poder mover, achei bem intuitivo, com esses três pontinhos aqui. Eh, assim, no geral tá bem intuitivo, tá bem fácil de usar o sistema. Acho que talvez, em vez de ter esse botão aqui no final, pudesse ter algo que aparecesse aqui, um pouco mais para o celular, logo em cima, para ver o que tem que criar lá embaixo, sem ter que subir. Ah, e os itens... de bom, não, os erros eram simples de ser resolvidos. Vamos aqui por isso... é aqui obrigatório. Não entendi muito bem esse tal de "texto enriquecido", mas tá.
+
+Pesquisador:
+Eh, eu vou só tirar essa sua dúvida porque ela é mais conceitual, né? O texto enriquecido, eh, ele te dá a opção de, por exemplo, quem for responder poder colocar um negrito ou poder colocar um itálico na hora da resposta dela.
+
+P2:
+Ah, tá. Então, acho que é a avaliação dos... versão automática... tirados que... eh, sim, não — acho que clicar um "enter" talvez servisse para abrir a próxima opção de adicionar, talvez seria bom também. Acho que pode... tá bom assim, já terminei essa tarefa aqui. É legal que ele não deixa eu salvar porque a descrição da questão é obrigatória. Então, eh, acho que pode ter uma contrapartida aqui também, né? Não. Próximo: "design dos estudos", "dentro dos sujeitos". "Dentro dos sujeitos" — é só para confirmar: dentro do sujeito é quando todos os participantes usam com e sem o plugin, né?
+
+Pesquisador:
+Perdão, P2, eu não entendi a sua pergunta. Você pode repetir? Deu uma travadinha aqui para mim.
+
+P2:
+E o design "entre sujeitos" aqui é aleatório, não? — ou seja, a gente dividiria os grupos: um que vai utilizar o plugin e o outro grupo que não vai utilizar o plugin.
+
+P2:
+E no "dentro do sujeito", todo mundo vai utilizar o plugin e depois não vai utilizar o plugin?
+
+Pesquisador:
+Exato. Dentro de sujeitos, todo mundo realiza todas as condições experimentais.
+
+P2:
+Ah, tá aqui, pô. Ó, vacilo meu, hein. Vacilo meu aqui, ó — eu que não li, não tenho costume de ler as coisas. A plataforma mostra: "Nenhuma tarefa foi encontrada." Ah, tá. Ih, tá.
+
+Pesquisador:
+Aí, ô P2, foi aquele lugar que eu te falei, sabe? Nessa criação de tarefa, você só vai supor que você tá subindo sua aplicação. Então, assim, esse negócio de "chat", de "interface de interação" que vai te pedir aí, isso você pode meio que ignorar.
+
+P2:
+Ah, tá. Eh, "elabore o item da habilidade". Eu escrevi... eu esqueci, mano. É "a habilidade", acho que, se não me engano... ah, vou escrever a habilidade: "é para analisar relações de causa e consequência em um texto, em uma carta." Eh, o estudante teria que ler o texto, uma carta, e no comando — que é a instrução — perguntar qual é a relação de causa e consequência no texto, aí as alternativas... essa é a habilidade, só que eu não lembro do código. Eh, "elabore o item da habilidade" — ah, não, vou mudar para mais fácil: "extração de informação explícita." Fácil. Vou ignorar. Acho que os dois pedem descrição. Qual seria a diferença entre a "descrição" — que eu vou usar para descrever a tarefa — e o "sumário" dela?
+
+Pesquisador:
+Então, eh, é que ali eu acredito que seria mais o título, né, tal, enfim, aí seria um resumo de toda sua tarefa.
+
+P2:
+Tá, tá, tá. Então, é tipo assim: no sumário eu vou colocar os passos resumidamente do que ela deve fazer, e na descrição só dou uma descrição da tarefa,
+
+Pesquisador:
+Isso pode ser.
+
+P2:
+Ah, tá, beleza.
+
+Pesquisador:
+Ficou... você achou confuso essa parte?
+
+P2:
+É, não sei. Pelo menos eu entendi. Ah, pera aí. ... "Suporte", "objetivo" — eh, seja avaliar a habilidade de localizar no texto, tá? ... uma carta ... os distratores, eh, alternativas que não servem para não acertos por chute. Ah, não sei se ficou claro. Eh, tá — "alternativas incorretas" devem ser plausíveis, ou seja, que não sejam óbvias, tá bom? Que um item tenha objetivo... vou voltar pro chat, não, para o motor de busca.
+
+Pesquisador:
+É, pode colocar isso aí, qualquer um.
+
+P2:
+Eu tenho que preencher. Pode colocar coisa aleatória aqui.
+
+Pesquisador:
+Sim,
+
+P2:
+Beleza, deixou. "Tarefas." Beleza. Criar. Pronto. E agora?
+
+Pesquisador:
+Bem, tem alguns botões aí, se você quiser explorar as funcionalidades dele.
+
+P2:
+Ah, verdade. Eu não tenho participantes. "Finalizado." Isso aqui foi o que eu coloquei. Pode falar no...
+
+P2:
+"Métrica de interação." Ó, maneiro isso aqui, os questionários para enviar pós-tarefa. Ó, um dashboardzinho. Deixa eu ver se aponta. Olha. Legal. Legal. Já exporta um CSVzinho com os dados. Abrir os JSONs tudo aqui que eu exportei. Ah, legal. Tem como... parece que tem o consentimento dos participantes. Ó, vou adicionar pessoal aqui. Ó, o pessoal do meu grupo, será que tá aqui? Eh, deixa eu ver... vou perguntar só para eles. Bom, mas isso vai ter um viés aí no meu experimento — só assim vai avaliar bem. Antes, editar as opções, excluir... tava desativado. Antes — não tem como eu me inscrever aqui? Ah, legal. Eu poderia me inscrever no meu próprio experimento? Acho que tá OK. É isso.
+
+Pesquisador:
+É isso. Beleza, P2. Eu vou encerrar a gravação aqui, cara, e te agradeço por participar. Só vou encerrar a gravação aqui agora.
