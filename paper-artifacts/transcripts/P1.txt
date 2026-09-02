@@ -1,0 +1,62 @@
+Pesquisador:
+OK. Eh, bem, durante toda a atividade, P1, eu gostaria que você pensasse em voz alta, ou seja, eu espero que você verbalize tudo que tiver passando pela sua cabeça, seja o que você tá procurando, o que você espera que aconteça, quando alguma coisa parecer confuso, quando você encontrar uma dificuldade ou como quando alguma funcionalidade fizer sentido. Você não precisa se preocupar em explicar para mim, mas apenas falar naturalmente enquanto você utiliza a ferramenta. E assim, caso você fique alguns segundos em silêncio, eu posso apenas te lembrar de continuar verbalizando seus pensamentos. OK?
+
+P1:
+Beleza.
+
+Pesquisador:
+Bem, conforme solicitado anteriormente, você chegou a pensar em algum experimento que você gostaria de realizar?
+
+P1:
+Sim. Eh...
+
+Pesquisador:
+Você pode compartilhar ele comigo rapidamente.
+
+P1:
+O meu experimento vem da necessidade de comparar... eh, não só comparar, né, mas entender como que o uso de uma abordagem baseada em jogo educacional faz diferença no ensino de padrões de arquitetura de software. Esse jogo foi desenvolvido em parceria com uma colega, ela utilizou no TCC dela, né? Então o tema seria esse: utilização ou não utilização desse jogo como um apoio para aperfeiçoamento e aprendizado desse tópico na disciplina de engenharia de software.
+
+Pesquisador:
+Legal. Esse é o seu experimento, então, né?
+
+P1:
+Isso.
+
+Pesquisador:
+Então, OK. Eh, você pode agora utilizar a ferramenta para configurar o seu experimento e pode fazer isso da maneira que você considerar mais natural. Só lembrando que durante toda a atividade a gente tá sugerindo que você pense em voz alta.
+
+P1:
+Beleza. Então, começando aqui pela página inicial, né? Eh, tô na dúvida agora se eu consigo configurar o idioma da plataforma. Então, vou entrar no meu perfil para ver. Não tem. Então eu vou voltar e vou seguir. Já separei aqui então o título do meu experimento. Gostei da interface simplificada. Seguir. Eh... então aqui pode ser...
+
+Pesquisador:
+Só lembrando de você ir falando o que você tá pensando.
+
+P1:
+Beleza. Talvez antes de iniciar ter os tópicos, se tivesse, né, os tópicos do que seria necessário para eu criar o experimento, né? Pensar de maneira geral: objetivo da pesquisa, eh quais são os riscos, possíveis benefícios, termo de aceite e acho que no momento é isso, alguns cuidados. Vou prosseguir, então. Vou criar o primeiro questionário. Eh, vamos ver como pré: uso de plataforma, uso de métodos não tradicionais... Eh, tá. Acho que eu quero resposta única, né? Considerando... tá. Interessante que tem diferentes tipos de questão. Deixa eu pensar.
+
+Pesquisador:
+Só lembrando de que quando você for usar uma função, uma coisa do tipo, você pode falar sobre ela.
+
+P1:
+Uhum. Beleza. Gostei do layout de inserir uma nova questão. Fico na dúvida se não poderia ter um de duplicar, né, para caso sejam questões muito similares ou o uso de... por exemplo, o uso de um sistema que tem perguntas Likert, então seria a mesma escala de resposta. Então, talvez se eu tivesse como duplicar e só mudar a pergunta, seria interessante. Então vou seguir aqui primeiro com... talvez separar por seção também, mas por exemplo agora eu pretendia mapear o perfil do participante, então vou começar com as perguntas. Essa mesmo. Opa, apertei enter e aí foi como se eu tivesse salvado. Acho que vou diminuir essa janela. Vou adicionar mais uma questão. Então, como é relacionado a um curso da computação, eu quero saber qual curso, né? Eh, agora eu quero mapear o uso dessas ferramentas de fato. Acho que talvez tivesse uma opção de eu só apertar seta para baixo e ir para a próxima opção, algo assim. Talvez até nesse sentido, já que tem tipos pré-definidos, talvez ter tipo também de resposta pré-definida, como essas escalas às vezes. Uma sugestão de autocomplete. Tá. Eh, já falei, já mapeei, né, o perfil, o uso de ferramentas, então acho que não tá totalmente completo, mas é o inicial. Agora um questionário pós... Eh, eu não sei um título agora... avaliarem a aprendizagem durante a utilização do jogo. Também quero que a resposta seja única. Olha só, essa aqui não vou definir agora não. Acho que no outro eu não coloquei impedimento. Não preciso identificar qual atividade foi realizada. Ah, o shift... mas o shift pula só pro delete, para baixo. Como o objetivo é avaliar o conhecimento, vou colocar perguntas relacionadas ao conteúdo para ter uma informação aqui em cima... sem auxílio de material. Eh... tá bem. Eu acho que eu gostaria de ter também aqui na pergunta, né, o que eu vi lá atrás na hora de registrar, talvez até aqui na descrição do questionário, a formatação que tem na descrição do experimento, tá? Eu vou salvar. Na verdade, eu só avaliei a aprendizagem, né? Eh, assim... então eu vou deixar essas perguntas aqui como se eu fosse continuar num segundo momento, né? Como tem possibilidade aqui de alterar. Então, no caso, eu vou selecionar esse tipo de design de estudo porque eu quero saber como que os grupos vão se comportar, né, vão avaliar tanto a aprendizagem quanto o uso da ferramenta. Eu quero que seja balanceado e principalmente o questionário de avaliação. Tem como base, né... tá, é, sim. Talvez... ah, não tá aparecendo para mim a questão. Eu queria separar então balanceado de acordo com o curso ou até a idade. Acho que vou colocar aleatório. Então, de tarefa eu tenho duas, né? Uso do jogo... Nesse caso, vou colocar o material textual.
+
+Pesquisador:
+P1.
+
+P1:
+Oi.
+
+Pesquisador:
+Só um adendo que, nessa parte, você só precisa se preocupar em imaginar que você tá subindo a aplicação, OK? Nesse momento, nessa parte, você pode apenas imaginar que tá subindo a aplicação, não necessariamente colocar algo completo.
+
+P1:
+Sim, como é uma simulação, eu acho que vou alterar aqui pro Google. Se eu colocar algo aleatório, será que vai deixar? Na verdade é o questionário pós... Tá. Na verdade, isso aqui é só o sumário. Então vão ser 5 minutos. Considerar aqui que esse último seria um questionário de usabilidade. Gostei que tem como duplicar. Vai ser o mesmo questionário, na verdade. Onde... acho que talvez ter uma possibilidade de abertura dos questionários, né, já que é uma página para revisão das informações. Eu acho que é isso. Gosto da possibilidade de voltar, das cores. É interessante essa interface. Eh, acho que só seria possível exportar nesse formato por conta do import, mas talvez a possibilidade de exportar em outros formatos. Gostei da possibilidade de selecionar os outros usuários, né? Gostei de ter... é uma coisa que geralmente não tem, né... a centralização das informações e a possibilidade de uma visualização única. Gostei dessa visualização aqui na lateral também. Essa visualização não, a progressão, né? Não... esqueci a palavra, mas o acesso de cada um. Acho que nessa tela faltou um botão voltar, talvez. Não, OK. Acho que é isso.
+
+Pesquisador:
+É isso. Então...
+
+P1:
+O que me diz? É isso. É isso.
+
+Pesquisador:
+É sim. Acho que você conseguiu mexer bem nas funcionalidades. Aí obrigado, tá, por aceitar participar. Agora vou encerrar a gravação aqui.
