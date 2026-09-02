@@ -1,0 +1,451 @@
+Pesquisador:
+Beleza, P3. Eh, eu já vou falar sobre isso aí, tá, cara? Vou te pedir para, durante toda a atividade, pensar em voz alta — verbalize tudo aquilo que tiver passando pela sua cabeça, seja o que você tiver procurando, o que você espera que aconteça, quando alguma coisa parecer confusa, quando você encontrar alguma dificuldade ou até mesmo quando alguma funcionalidade fizer sentido. Novamente, você não precisa se preocupar em explicar para mim, mas fala naturalmente enquanto utiliza a ferramenta. Caso você fique alguns segundos em silêncio, eu vou te lembrar de continuar verbalizando seus pensamentos. Eu espero também que você me diga o seu entendimento aí no uso das ferramentas, OK?
+
+P3:
+OK.
+
+Pesquisador:
+Então, vou te pedir antes só para você me explicar rapidinho qual que vai ser o experimento que você vai realizar na plataforma.
+
+P3:
+Beleza? É para explicar agora?
+
+Pesquisador:
+É, sim. Pode, por favor.
+
+P3:
+Tá bom. Eu vou criar um teste... minha essência vai ser um teste que vai tentar verificar se usar o plugin de gerar itens de matemática vai de fato agilizar o processo de criação de itens dentro da plataforma.
+
+Pesquisador:
+Bacana, bacana. Pode começar aí então, cara.
+
+[participante começa a utilizar a plataforma]
+
+Pesquisador:
+Rapidinho, eu vi que você selecionou ali para criar conta como pesquisador. No botãozinho ali, você pode me explicar por que você achou isso?
+
+P3:
+Por selecionar o pesquisador? Ah, porque eu imaginei que seria a conta de pesquisador para fazer esse experimento.
+
+Pesquisador:
+Uhum. E isso ficou bem intuitivo, esse botãozinho aí, esse elemento de interface?
+
+P3:
+Ficou bem intuitivo. Aparentemente eu tenho que cadastrar outro, pegar o e-mail da instituição. Imagino que eu devo clicar nesse botão no meio.
+
+Pesquisador:
+Isso. Você clicou ali para...
+
+P3:
+Criar um novo experimento.
+
+Pesquisador:
+Legal. E ficou claro isso, né?
+
+P3:
+Ficou bem claro. É... o campo título — aí, no caso, onde eu tô escrevendo, seria o título do experimento.
+
+Pesquisador:
+OK. Você conseguiu entender bem isso, né?
+
+P3:
+Sim, ficou bem nítido isso. Eh, eu imagino que esse campo seja para escrever sobre o experimento.
+
+Pesquisador:
+Sim. Ô P3, eh, você só não precisa se preocupar em colocar muito texto ou coisa do tipo, tá? É só ir utilizando a ferramenta e falando o que você tá entendendo de cada componente, enfim.
+
+P3:
+Ah, sim. Beleza, vou tentar ser mais curto aqui então.
+
+Pesquisador:
+Pode ir explorando os botões que você achar interessante aí.
+
+P3:
+Não entendi o que isso aqui faz.
+
+Pesquisador:
+O quê? Você pode...
+
+P3:
+Ah, tá. O botão... esse botão específico eu não sei o que ele faz. Imagino que talvez seja alguma coisa de formatação. Tem como criar cabeçalhos de tamanhos diferentes?
+
+Pesquisador:
+Hum. E isso ficou claro para você do jeito que tá aí na ferramenta?
+
+P3:
+Ficou. Um pouco parecido com o Google Docs. Tem como continuar de onde estava antes?
+
+Pesquisador:
+Legal. Então você saiu e voltou para fazer esse teste, né?
+
+P3:
+Exato.
+
+Pesquisador:
+Só te lembrando, fala o que você tá pensando quando você passa o mouse, clica em alguma coisa, pode ir verbalizando tudo.
+
+P3:
+Ah, sim, perfeito. O termo de consentimento é parecido com a descrição dos experimentos. Só não tô muito inspirado em criar um termo de consentimento, né?
+
+Pesquisador:
+Não, tudo bem. Você pode colocar, como eu te disse, o objetivo não é o texto, é a utilização da ferramenta, tá?
+
+P3:
+Ah, sim, perfeito. Interessante, ele aceitou formatação direta do Word.
+
+Pesquisador:
+Rapidinho, P3, você apertou ali no botão de próximo, né?
+
+P3:
+Uhum.
+
+Pesquisador:
+Por quê?
+
+P3:
+Tô curioso pra ver o que aconteceria, qual seria o próximo passo da ferramenta.
+
+Pesquisador:
+Entendi. E o que você tá entendendo com essa interface?
+
+P3:
+Essa interface tá até bem intuitiva. Pior que eu não lembro como é que tava quando eu testei ela, tipo no começo do ano passado, mas agora tá bem interessante.
+
+Pesquisador:
+Por que você tá achando isso? Alguma coisa em específico?
+
+P3:
+É tipo... ela ter um design mais minimalista e direto na proposta que ela tem, ela acaba entregando mais o que se propõe a fazer e não tenta distrair o usuário com outras funcionalidades que não seriam tão úteis. Dito isso, eu acho que não vou preencher esse termo de consentimento.
+
+Pesquisador:
+Tá tudo bem.
+
+P3:
+Eu coloquei aqui mais para testar como é que ficaria na ferramenta.
+
+Pesquisador:
+Tá tudo bem.
+
+P3:
+Imagino que eu deveria clicar em "criar questionário".
+
+Pesquisador:
+Uhum.
+
+P3:
+Nesse... ah, tá.
+
+Pesquisador:
+OK, foi isso que te chamou mais atenção aí, né?
+
+P3:
+Sim. Tem um botão de "adicionar questão". Ah, tem como especificar o tipo de questionário: ser respondido antes da tarefa e depois da tarefa. Você colocou ali "avaliação da ferramenta".
+
+Pesquisador:
+Isso, isso. Por que você colocou essa frase aí? Isso vai ser o quê?
+
+P3:
+Pelo que eu entendi, seria um questionário dado às pessoas às quais você aplicou o experimento. Aí teria a opção de fazer isso antes do experimento ser feito ou depois do experimento ter sido feito. Foi assim que eu entendi a ideia desse tipo de questionário.
+
+Pesquisador:
+Uhum. E aí, pensando especificamente no experimento de verificar a eficácia do plugin, faria mais sentido aplicar o questionário depois, não antes.
+
+P3:
+OK. Não sei se entendo — "resposta única".
+
+Pesquisador:
+Ficou pouco claro o que seria?
+
+P3:
+Eu tô supondo que significa que a pessoa não poderia responder mais de uma vez o questionário, mas não tenho certeza se é isso.
+
+Pesquisador:
+Entendi. "Adicionar questão" não serve? Vai falando aí o que tiver na sua mente, o que tá passando quando você clica, aperta nesses botões, por que você tá fazendo isso.
+
+P3:
+Bom, por enquanto eu tô verificando as possibilidades de tipos de questões que poderiam ser criadas no formulário. Não entendi a diferença entre questão aberta e questão curta. Talvez seja um registro que vai ser feito depois no próprio sistema, mas pelo menos não tô vendo nenhuma diferença na ferramenta sobre isso.
+
+Pesquisador:
+Entendi. Então você acha que não ficou muito intuitiva a diferença desses dois?
+
+P3:
+No momento não, mas talvez, se isso permite recuperar essa informação de alguma forma depois, talvez faça algum sentido — mas não sei se faz diferença nesse caso, porque a resposta curta ainda seria uma questão aberta. Não sei dizer.
+
+Pesquisador:
+Beleza. Você tá escrevendo um texto aí? Por quê? O que você tá entendendo dessa parte aí?
+
+P3:
+Bom, dentro dessa área da questão, tem esse campo chamado "enunciado da questão", que eu imagino que seja onde eu tenho que escrever a pergunta. Eu imagino que, se eu clicar aqui, a pessoa teria que responder obrigatoriamente essa pergunta. Eu não entendi o que esse texto tem aqui do lado... não entendi o que isso aqui faz.
+
+Pesquisador:
+Não ficou claro qual é a utilidade dele, nem que efeito ele traz?
+
+P3:
+Não ficou claro.
+
+Pesquisador:
+Agora você apertou ali em "adicionar questão", pode me explicar por que você foi ali naquele botão?
+
+P3:
+Ah, sim. Agora eu tô testando um outro tipo de item, aí por isso eu cliquei nesse botão de "adicionar questão", que nitidamente é para criar uma nova questão, e logo embaixo eu tô tentando elaborar agora uma pergunta do formulário do tipo caixa de seleção, para verificar como que funciona, como se elabora esse tipo de pergunta nesse formulário. Aí tem esse botão oculto chamado "adicionar opção" para adicionar as opções dentro desse tipo de item. Aí eu vou criar uma pergunta na escala Likert, de "concordo muito" a "discordo muito". Acabei de perceber que aqui ele alterou esse campo e colocou "pontuação" — ele adicionou essa outra coluna. Eu acho que isso faria sentido em outro tipo de formulário, se estivesse testando conhecimento de alguma pessoa, ou não?
+
+Pesquisador:
+Como assim? Você pode me explicar melhor?
+
+P3:
+Não, na verdade não entendi.
+
+Pesquisador:
+O que você não entendeu?
+
+P3:
+Estaria adicionando pesos de acordo com a resposta da pessoa?
+
+Pesquisador:
+Sim. Isso mesmo — bem, eu acho que eu vou te explicar.
+
+P3:
+Sim.
+
+Pesquisador:
+Tá aí porque, como eu te falei anteriormente, você pode separar os grupos, né? E aí você pode separar de acordo com as respostas que cada um dá. Então talvez você queira separar por notas, coisa do tipo.
+
+P3:
+Ah, tá, entendi.
+
+Pesquisador:
+Você conseguiu entender a explicação, ou alguma coisa ficou confusa?
+
+P3:
+Não sei, eu entendi a potencial utilidade disso, só imagino que no experimento não faça muita diferença, porque não tô lidando com diferentes tipos de grupos.
+
+Pesquisador:
+Rapidinho, em que botão você apertou ali agora?
+
+P3:
+Ah, sim, aí nesse canto inferior direito, achei esse botão "salvar".
+
+Pesquisador:
+OK.
+
+P3:
+Ele de fato salva, e aí eu tenho a possibilidade de editar depois aqui — vejo um lápis, que nitidamente significa "editar". Ah, legal, se eu clico nessa setinha para baixo dá para ver a descrição do questionário. Legal, se eu estivesse trabalhando com múltiplos questionários diferentes, isso ajudaria um pouco na hora de lembrar o que cada questionário faz, por meio da descrição. Se eu clicar no botão "voltar", o questionário vai continuar sendo salvo aqui ou não?
+
+Pesquisador:
+Pode ficar à vontade para testar.
+
+P3:
+Ah, perfeito.
+
+Pesquisador:
+Então você primeiro apertou "voltar" e depois foi em "próximo", né?
+
+P3:
+Exato, para continuar de onde eu tava. E de fato ele manteve o estado anterior salvo, só que aí era um novo formulário.
+
+Pesquisador:
+Ficou claro que, se você quisesse criar um novo questionário, era só apertar ali? O que você achou?
+
+P3:
+Sim, ficou claro. Esse botão razoavelmente grande, escrito "criar questionário" com o sinal de mais — acho que ficou bem claro o propósito dele. Interessante, eu não consigo salvar se não criar uma questão no questionário.
+
+Pesquisador:
+É, faz sentido, né? Senão só teria o título e a descrição do formulário, sem ter uma questão nele.
+
+P3:
+Vou clicar no botão "próximo", então.
+
+Pesquisador:
+Uhum, para continuar...
+
+P3:
+Para continuar o processo de construir o experimento. Ah, sim, vi no material de apoio — basicamente ou aplicaria a ferramenta em parte das pessoas e não aplicaria na outra, e depois verificaria os resultados, né?
+
+Pesquisador:
+Então, se você tá agora...
+
+P3:
+Uhum.
+
+Pesquisador:
+...agora o "entre sujeitos" é tanto fazer aplicar a ferramenta para todos, como não aplicar e ver como fica o resultado, né? Então, se eu não estivesse aqui e você não tivesse o material de apoio que eu te enviei, ficaria claro em algum lugar onde você teria essa informação?
+
+P3:
+Dentro... ah, sim, pera, agora que eu vi isso aqui. Ah, sim, perfeito. Não, agora que eu vi de fato — tá aqui, clicando nesse link aqui abre uma nova tela clicando em "saiba mais", né?
+
+Pesquisador:
+Exato.
+
+P3:
+E "suas tarefas". Sim, perfeito.
+
+Pesquisador:
+E ficou claro que essa informação tava aí ou não?
+
+P3:
+Ah, não ficou claro. Sim, agora eu tô lendo os métodos de alocação de grupo, só por curiosidade.
+
+Pesquisador:
+Uhum.
+
+P3:
+Considerando a realidade do experimento, vou fazer um "entre sujeitos" e aleatório, porque não existe diferença real entre os elaboradores de prova.
+
+Pesquisador:
+Beleza, perfeito, isso mesmo.
+
+P3:
+Fui ali em "próximo" porque acho que...
+
+Pesquisador:
+Por que você acha que...
+
+P3:
+Ah, sim, cliquei no "próximo" porque seria nitidamente o botão que permitiria avançar na questão do experimento, delimitando justamente o tipo e o método de separação de grupo.
+
+Pesquisador:
+Beleza?
+
+P3:
+Aí abrindo, eu recebo a possibilidade de criar uma tarefa. E, como eu crio "entre os sujeitos", eu sou obrigado a criar duas tarefas.
+
+Pesquisador:
+Sim, claro. Então, das pessoas que vão elaborar os itens sem a ferramenta e das que vão elaborar com a ferramenta.
+
+P3:
+Imagino. "Configuração da interface de interação"...
+
+Pesquisador:
+Ah, tá, P3, nesse momento — especificamente nessa parte de criação de tarefa, eu quero que você só imagine que você tá subindo sua aplicação, tá? Então tanto faz aí se vai ser chat ou motor de busca, porque isso vai ficar mais amplo, a gente não vai... isso aí tanto faz. Você pode colocar qualquer coisa aí.
+
+P3:
+Ah, sim, eu acabei de perceber que a partir daqui eu posso vincular um questionário a essa tarefa, no caso vou ver o grupo que vai receber o plugin. Aí, como eu, no caso, crio o formulário pensando nas pessoas que vão usar o plugin, eu vincularia a essa tarefa.
+
+Pesquisador:
+Legal. E ficou bem claro isso, como é que faz isso?
+
+P3:
+Ficou bem claro, né? Se não tiver, também você pode falar.
+
+Pesquisador:
+Ah, sim, claro.
+
+P3:
+Aí eu imagino que o sumário e a descrição sejam para poder identificar a tarefa depois na ferramenta, né?
+
+Pesquisador:
+Uhum, perfeito.
+
+P3:
+Aí eu tô verificando a mesma forma de interface que tinha nos questionários aqui dentro das tarefas, e tem exatamente a mesma possibilidade de ver a descrição da tarefa. Eu coloquei antes... aí, como eu percebi que eu tenho que criar um outro questionário, vou voltar. Uma coisa, só voltar de novo, criar um novo formulário. Eu vou aplicar esse novo formulário, na verdade. Tá, ele salvou. "Nova tarefa" — agora vou criar tarefa para quem não vai usar a ferramenta. Aí vou passar o novo formulário. Clicar no botão "criar".
+
+Pesquisador:
+Se for no "criar" ali, é para...
+
+P3:
+Criar a tarefa, não criar a ferramenta.
+
+Pesquisador:
+Uhum. E aí, o que você tá entendendo dessa tela agora?
+
+P3:
+Agora eu consigo visualizar as duas tarefas que eu criei, cada tarefa para um grupo que eu especifiquei no experimento — um modo de quem vai elaborar os itens de prova usando a ferramenta e os que vão elaborar sem a ferramenta, cada um com um questionário diferente dentro do experimento que eu elaborei antes. Ah, legal, aqui ele tá dando o resumo do experimento.
+
+Pesquisador:
+Hum, então você entendeu que nessa parte aí o que tá acontecendo?
+
+P3:
+Ele tá coletando as informações que foram sendo passadas ao longo do processo e colocou numa única tela, com as informações... não diria em tópicos, mas destacadas assim — título, tipo de experimento, método de separação.
+
+Pesquisador:
+E o que você achou disso?
+
+P3:
+Achei legal. Isso, na verdade, pode inclusive ajudar a pessoa a lembrar o que tá sendo feito antes, ou até mesmo só como um lembrete do que ela escreveu antes dentro do experimento. Você precisa talvez editar alguma coisa antes... aí vou clicar no botão "criar".
+
+Pesquisador:
+Uhum. E aí, o que você tá entendendo agora?
+
+P3:
+Tá, agora eu tenho esse elemento de interface aqui — imagino que deva ser o elemento do experimento que eu criei agora. Ele mostra justamente aquela descrição de experimento que eu escrevi no primeiro campo da página. Ah, ele tem as sub... "desativar" — ah, não, eu ativei o experimento. Ah, tá. Eu não entendi o que isso aqui faz — talvez seja só uma forma de lembrar o usuário de que o experimento tá ativo, ou talvez seja para fazer alguma coisa dentro da ferramenta.
+
+Pesquisador:
+Onde você foi agora, cara?
+
+P3:
+É, eu comecei a visualizar as possibilidades do que eu posso ver do experimento. Acabei de ver a possibilidade de "ver dados". Ah, legal, tem como exportar os dados do experimento? Como é que eu importo dados... ah, é verdade, eu teria que aplicar o formulário para ter os dados coletados, não é? Isso ficou claro para você?
+
+Pesquisador:
+Mas ficou claro?
+
+P3:
+Ficou claro. Agora a questão é: como é que eu aplicaria os formulários na ferramenta?
+
+Pesquisador:
+Onde você foi agora?
+
+P3:
+Eu acho que eu acabei de clicar em algo que eu não devia ter clicado.
+
+Pesquisador:
+O que você acha?
+
+P3:
+Ah, tá, isso aqui é... eita, mas como que eu volto agora? Não, acho que eu entendi, isso aqui é para convidar as pessoas para participar do experimento, né?
+
+Pesquisador:
+O que você tá fazendo aí agora?
+
+P3:
+Eu tô verificando como a ferramenta reage ao adicionar várias pessoas simultaneamente no experimento. Legal, vou adicionar um participante, porque... cadê o outro usuário? Agora como é que eu volto para o anterior?
+
+Pesquisador:
+Ah, tá bom. Onde você apertou, o que você fez?
+
+P3:
+Eu cliquei no botão "início" e ele voltou pra essa tela.
+
+Pesquisador:
+Uhum. E o que você achou?
+
+P3:
+Eu acho que talvez devesse ter algum botão de voltar, tipo um botão aqui no canto superior esquerdo ou algo do tipo, em vez de ter que clicar nesse botão de "início".
+
+Pesquisador:
+Uhum.
+
+P3:
+"Editar" — aí clicando no botão "editar", eu posso editar o documento que eu acabei de criar. Perfeito. Agora tô só explorando mesmo. Agora que eu adicionei o participante, ele apareceu como participante. Legal, é só exportar os dados... eu vou ter o JSON. Deixa eu ver como ficou o JSON — plugin do pegar... é legal, tem bastante informação no JSON, né?
+
+Pesquisador:
+Onde você foi aí agora?
+
+P3:
+Ah, sim, eu achei o botão "voltar" aqui agora.
+
+Pesquisador:
+OK.
+
+P3:
+Bom, tem mais alguma coisa que eu deva fazer? O experimento já foi criado, ou tem alguma coisa mais que você gostaria?
+
+Pesquisador:
+O que você tá entendendo até agora? O que você entendeu?
+
+P3:
+Bom, a princípio, se eu clicar no botão de "criar experimento" eu vou criar basicamente esse elemento de interface. Aí, se eu quiser adicionar participantes, eu teria que clicar nessa aba, pesquisar pelo nome ou e-mail de alguém e adicionar ele para fazer parte do experimento. Mas acho que eu não sei como isso aparece pra pessoa — não sei se aparece no e-mail dela a possibilidade de participar do experimento. Essa pessoa teria que estar cadastrada na ferramenta, imagino que deva precisar, né.
+
+Pesquisador:
+Onde você foi aí agora, o que você fez?
+
+P3:
+Ah, sim, eu tô pesquisando o meu nome na aba de busca de usuários. Um potencial limitador seria que você teria que convencer as pessoas a se cadastrarem na ferramenta para poder usar ela por meio do experimento — todas as pessoas teriam que se cadastrar para você poder usá-la. Talvez seja um limitador. Eu não sei se teria a possibilidade de criar um usuário anônimo — aí você poderia convidar a pessoa só por meio do e-mail aqui.
+
+Pesquisador:
+Beleza.
+
+P3:
+Eu acho que é isso.
+
+Pesquisador:
+OK, P3. Então vou parar a nossa gravação aqui.
