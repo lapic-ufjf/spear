@@ -53,8 +53,8 @@ The system supports two main user roles:
 > **⚠️ Running Services Independently**
 >
 > The instructions here are for running the full stack with Docker Compose. To run services separately, follow the README.md in:
-> - **Backend API:** `api/README.md`
-> - **Frontend UI:** `ui/README.md`
+> - **Backend API:** ` api/README.md`
+> - **Frontend UI:** ` ui/README.md`
 ---
 
 ### 📋 Prerequisites
