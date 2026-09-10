@@ -1,6 +1,6 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/lapic-ufjf/searchat-behavior-api.git
+	url = git@github.com:lapic-ufjf/searchat-behavior-api.git
 [submodule "ui"]
 	path = ui
-	url = https://github.com/lapic-ufjf/searchat-behavior-ui.git
+	url = git@github.com:lapic-ufjf/searchat-behavior-ui.git
