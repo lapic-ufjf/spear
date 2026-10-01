@@ -1,6 +1,8 @@
 [submodule "api"]
 	path = api
-	url = git@github.com:lapic-ufjf/searchat-behavior-api.git
+	url = https://github.com/yeshuasiqueira/spear-api.git
+	branch = main
 [submodule "ui"]
 	path = ui
-	url = git@github.com:lapic-ufjf/searchat-behavior-ui.git
+	url = https://github.com/yeshuasiqueira/spear-ui.git
+	branch = main
